@@ -1,0 +1,28 @@
+:root {
+  --neutral-0: #fff;
+  --neutral-1: #{rgba(#d3d3d3, 0.1)};
+  --neutral-5: #{rgba(#d3d3d3, 0.5)};
+  --neutral-10: #d3d3d3;
+  --blue-1: #{rgba(#009ffd, 0.1)};
+  --blue-5: #{rgba(#009ffd, 0.5)};
+  --blue-10: #009ffd;
+  --font-default: -apple-system, blinkmacsystemfont, avenir next, avenir,
+    helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+}
+
+body {
+  background-color: var(--neutral-1);
+  font-family: var(--font-default);
+  margin: 0;
+  padding: 0;
+}
+
+article {
+  background-color: var(--neutral-0);
+  border: 1px solid var(--neutral-10);
+  border-radius: 8px;
+  margin: 0.5rem auto;
+  max-width: 50rem;
+  min-height: 10rem;
+  padding: 0 1rem;
+}
