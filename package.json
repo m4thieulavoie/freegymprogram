@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack serve",
     "lint": "eslint --ext .ts, src/ && npx stylelint \"src/**/*.scss\"",
-    "build": "webpack",
+    "build": "webpack &&  && copyfiles _redirects public",
     "build_": "node scripts/build.js && webpack",
     "test": "node scripts/test.js"
   },
@@ -32,6 +32,7 @@
     "@m4thieulavoie/linting": "0.0.12",
     "@typescript-eslint/eslint-plugin": "4.31.2",
     "@typescript-eslint/parser": "4.31.2",
+    "copyfiles": "^2.4.1",
     "eslint": "7.32.0",
     "eslint-config-airbnb-base": "14.2.1",
     "eslint-config-prettier": "8.3.0",
