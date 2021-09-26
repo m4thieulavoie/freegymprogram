@@ -1,6 +1,6 @@
 {
-  "name": "everkinetic",
-  "version": "1.0.0",
+  "name": "freegymprogram",
+  "version": "0.0.1",
   "description": "Open data repository",
   "scripts": {
     "build": "node scripts/build.js",
@@ -9,9 +9,6 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "TBD"
-  },
-  "bugs": {
     "url": "TBD"
   },
   "keywords": [
@@ -30,9 +27,5 @@
   "engines": {
     "node": ">=4.4.0"
   },
-  "author": [
-    "Greg Priday <greg@siteorigin.com> (https://github.com/gregpriday)",
-    "Frank Paczynski <frank@solygen.de> (https://github.com/solygen)"
-  ],
-  "license": "CC-BY-SA-4.0"
+  "license": "MIT"
 }
