@@ -40,7 +40,6 @@ export default class HomeComponent extends FASTElement {
 
   connectedCallback() {
     super.connectedCallback();
-    console.warn({ allMuscles: this.allMuscles });
   }
 
   handleChange() {

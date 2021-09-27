@@ -93,7 +93,6 @@ export default class ExerciseComponent extends FASTElement {
     const { id = undefined } = RouterService.getRouteParams();
     if (id) {
       this.exercise = ExerciseService.getExerciseFromId(Number(id));
-      console.warn(this.exercise);
     }
   }
 }
