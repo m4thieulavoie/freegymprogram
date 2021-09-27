@@ -4,7 +4,7 @@
   "description": "Open data repository",
   "homepage": "https://github.com/m4thieulavoie/freegymprogram#readme",
   "scripts": {
-    "start": "webpack serve",
+    "start": "webpack serve -- --env NODE_ENV=development",
     "lint": "eslint --ext .ts, src/ && npx stylelint \"src/**/*.scss\"",
     "build": "webpack && copyfiles _redirects public",
     "build_": "node scripts/build.js && webpack",
