@@ -1,15 +1,57 @@
-import { FASTElement, customElement, html } from "@microsoft/fast-element";
+import {
+  FASTElement,
+  customElement,
+  html,
+  repeat,
+  observable,
+} from "@microsoft/fast-element";
+import MuscleService from "../services/Muscle.service";
 import styles from "./Home.scss";
 
-const template = html`<h1>This website does absolutely nothing!</h1>
-  <p>
-    Welcome! Please spend the most of your time messing around the code, and not
-    this stupid UI! :)
-  </p>`;
+const template = html<HomeComponent>`<h1>Let's get this done!</h1>
+  <label for="schedule-select"
+    >Pick the muscles you want to work out today</label
+  >
+  <select id="schedule-select" @change=${(x) => x.handleChange()} multiple>
+    ${repeat(
+      (x) => x.allMuscles,
+      html`<option value="${(x) => x}">${(x) => x}</option>`
+    )}
+  </select>
+  <button @click=${(x) => x.generateProgram()}>Go</button>
+  <h1>Presets</h1>
+  <a href="/dailyschedule/chest=3&triceps=3">Chest triceps</a>`;
 
 @customElement({
   name: "wcs-home",
   template,
   styles,
 })
-export default class HomeComponent extends FASTElement {}
+export default class HomeComponent extends FASTElement {
+  @observable allMuscles = MuscleService.getAllMuscles();
+
+  private getSelectedOptions() {
+    return Array.from(
+      this.shadowRoot.querySelector("select").selectedOptions
+    ).map((x) => x.value);
+  }
+
+  connectedCallback() {
+    super.connectedCallback();
+    console.warn({ allMuscles: this.allMuscles });
+  }
+
+  handleChange() {
+    console.warn({ select: this.getSelectedOptions() });
+  }
+
+  generateProgram() {
+    const builtUrl = this.getSelectedOptions()
+      .map((x) => `${x}=3&`)
+      .join("");
+    window.location.href = `/dailyschedule/${builtUrl.substring(
+      0,
+      builtUrl.length - 1
+    )}`;
+  }
+}

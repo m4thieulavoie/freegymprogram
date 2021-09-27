@@ -9,4 +9,21 @@ export default class ExerciseService {
   static getExerciseFromId(exerciseId: number) {
     return this.getExercises().find(({ id }) => id === exerciseId);
   }
+
+  static getExercisesFromMuscle(muscle: string, amount: number) {
+    let exercisesForMuscle = this.getExercises().filter(
+      (exercise) => exercise.primary === muscle
+    );
+
+    if (!exercisesForMuscle.length) {
+      exercisesForMuscle = this.getExercises().filter(
+        (exercise) =>
+          exercise.primary === muscle || exercise.secondary?.includes(muscle)
+      );
+    }
+
+    const shuffled = exercisesForMuscle.sort(() => 0.5 - Math.random());
+
+    return shuffled.slice(0, amount);
+  }
 }

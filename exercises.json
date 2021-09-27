@@ -9,21 +9,13 @@
     "primer": "This is an exercise for the chest.",
     "type": "compound",
     "primary": "chest",
-    "secondary": [
-      "triceps"
-    ],
-    "equipment": [
-      "bench",
-      "barbell"
-    ],
+    "secondary": ["triceps"],
+    "equipment": ["bench", "barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=19&number=0&key=69cadbdd2&version=cf619212&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=19&number=1&key=69cadbdd2&version=5c40b61d&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/bench-press-1.png",
-      "_images/web/bench-press-2.png"
-    ],
+    "img": ["_images/web/bench-press-1.png", "_images/web/bench-press-2.png"],
     "steps": [
       "Lie on a flat bench with your feet flat on the floor, keep your back flat on the bench.",
       "Grasp the bar a little wider than shoulder width apart.",
@@ -43,17 +35,12 @@
     "primer": "This is an advanced triceps exercise which moves the muscle differently than other exercises.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=27&number=0&key=69cadbdd2&version=d1a482c2&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=27&number=1&key=69cadbdd2&version=b401258e&size=480,480&download=medium"
     ],
-    "img": [
-      "_images/web/tate-press-1.png",
-      "_images/web/tate-press-2.png"
-    ],
+    "img": ["_images/web/tate-press-1.png", "_images/web/tate-press-2.png"],
     "steps": [
       "Lay flat on a bench with your head at one end and your feet firmly planted on the floor.",
       "Hold a dumbbell in each hand so your palms are faced towards your feet.",
@@ -71,9 +58,7 @@
     "primer": "An exercise to either build or warm-up front and back neck strength.",
     "type": "isometric",
     "primary": "neck extensors, neck flexors",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=33&number=0&key=69cadbdd2&version=61e6bb3a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=33&number=1&key=69cadbdd2&version=35ba3f21&size=960,960&download=large"
@@ -101,9 +86,7 @@
     "primer": "An exercise either build or warm up neck side flexors.",
     "type": "isometric",
     "primary": "neck side flexors",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=36&number=0&key=69cadbdd2&version=47d24699&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=36&number=1&key=69cadbdd2&version=09445cfd&size=960,960&download=large"
@@ -132,12 +115,8 @@
     "primer": "This is an exercise for the shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "triceps"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["triceps"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=39&number=0&key=69cadbdd2&version=62ec0e54&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=39&number=1&key=69cadbdd2&version=4cf9f256&size=960,960&download=large"
@@ -165,13 +144,8 @@
     "primer": "An exercise for the shoulder and triceps strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "triceps"
-    ],
-    "equipment": [
-      "barbell",
-      "bench"
-    ],
+    "secondary": ["triceps"],
+    "equipment": ["barbell", "bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=42&number=0&key=69cadbdd2&version=cb370555&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=42&number=1&key=69cadbdd2&version=12732321&size=960,960&download=large"
@@ -201,9 +175,7 @@
     "primer": "An exercise for trapezius strengthening.",
     "type": "isolation",
     "primary": "trapezius",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=46&number=0&key=69cadbdd2&version=9929c909&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=46&number=1&key=69cadbdd2&version=2d2d7b9a&size=960,960&download=large"
@@ -233,20 +205,13 @@
     "primer": "An exercise for shoulder and triceps strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "triceps"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["triceps"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=50&number=0&key=69cadbdd2&version=ac246b9e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=50&number=1&key=69cadbdd2&version=68a62bda&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/arnold-press-1.png",
-      "_images/web/arnold-press-2.png"
-    ],
+    "img": ["_images/web/arnold-press-1.png", "_images/web/arnold-press-2.png"],
     "steps": [
       "Sit on a flat bench, feet point forward with your abs drawn in.",
       "Grasp a dumbbell in each hand with your palm facing towards your body",
@@ -270,13 +235,8 @@
     "primer": "An exercise for shoulder, chest and forearm strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "chest",
-      "forerm"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["chest", "forearm"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=53&number=0&key=69cadbdd2&version=d168a0f4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=53&number=1&key=69cadbdd2&version=1b7f9eee&size=960,960&download=large"
@@ -286,7 +246,7 @@
       "_images/web/front-barbell-raises-2.png"
     ],
     "steps": [
-            "Grasp a barbell with an overhand grip(palms of hands face downwards) .",
+      "Grasp a barbell with an overhand grip(palms of hands face downwards) .",
       "Stand up-right with your feet shoulder width apart, knees slightly bent and your abs drawn in.",
       "With your arms straight, raise the barbell in a controlled motion to shoulder level.",
       "Hold for a moment and then lower the barbell in at the same motion."
@@ -306,13 +266,8 @@
     "primer": "An exercise for shoulders, chest and forearm strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "chest",
-      "forearm"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["chest", "forearm"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=56&number=0&key=69cadbdd2&version=634b9077&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=56&number=1&key=69cadbdd2&version=5cfd5a2f&size=960,960&download=large"
@@ -344,12 +299,8 @@
     "primer": "An exercise for trapezius strengthening.",
     "type": "isolation",
     "primary": "trapezius",
-    "secondary": [
-      "shoulders"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["shoulders"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=59&number=0&key=69cadbdd2&version=c1e8fc64&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=59&number=1&key=69cadbdd2&version=cd0fc21d&size=960,960&download=large"
@@ -365,9 +316,7 @@
       "Grasp the pulley and shrug your shoulders up while keeping your arms extended.",
       "Hold this position for a moment then with a controlled motion return to the starting position of the pulley to waist height."
     ],
-    "tips": [
-      "Bend your knees slightly when standing."
-    ]
+    "tips": ["Bend your knees slightly when standing."]
   },
   {
     "id": 62,
@@ -379,21 +328,13 @@
     "primer": "This is an exercise for shoulder, chest and forearm strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "forearm",
-      "chest"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm", "chest"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=62&number=0&key=69cadbdd2&version=ac5562cd&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=62&number=1&key=69cadbdd2&version=7c5a3f6d&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/front-raises-1.png",
-      "_images/web/front-raises-2.png"
-    ],
+    "img": ["_images/web/front-raises-1.png", "_images/web/front-raises-2.png"],
     "steps": [
       "Stand with your feet shoulder width apart, abs drawn in and knees slightly bent.",
       "Grasp a dumbbell in each hand, with your palm facing down.",
@@ -416,13 +357,8 @@
     "primer": "This is an exercise for shoulder, chest and triceps strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "triceps",
-      "chest"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["triceps", "chest"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=65&number=0&key=69cadbdd2&version=3f7ad06f&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=65&number=1&key=69cadbdd2&version=660f4bbe&size=960,960&download=large"
@@ -451,13 +387,8 @@
     "primer": "An exercise for shoulder, chest and triceps strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "triceps",
-      "chest"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["triceps", "chest"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=69&number=0&key=69cadbdd2&version=abe3e5c1&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=69&number=1&key=69cadbdd2&version=68dbb67e&size=960,960&download=large"
@@ -485,13 +416,8 @@
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "biceps",
-      "upper back"
-    ],
-    "equipment": [
-      "smith machine"
-    ],
+    "secondary": ["biceps", "upper back"],
+    "equipment": ["smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=72&number=0&key=69cadbdd2&version=35bd08bc&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=72&number=1&key=69cadbdd2&version=afceac40&size=960,960&download=large"
@@ -521,13 +447,8 @@
     "primer": "This is an exercise for shoulder, biceps and upper back strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "biceps",
-      "upper back"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["biceps", "upper back"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=75&number=0&key=69cadbdd2&version=0a33ff55&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=75&number=1&key=69cadbdd2&version=d43de315&size=960,960&download=large"
@@ -558,13 +479,8 @@
     "primer": "This is an exercise for shoulder, biceps and upper back strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "upper back",
-      "biceps"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["upper back", "biceps"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=79&number=0&key=69cadbdd2&version=ea3d6fe7&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=79&number=1&key=69cadbdd2&version=dfd8128b&size=960,960&download=large"
@@ -581,9 +497,7 @@
       "Pause at the top and rotate your shoulder blades together.",
       "Lower the bar in a controlled motion to the starting position."
     ],
-    "tips": [
-      "Do not arch your back when raising the bar to your shoulders."
-    ]
+    "tips": ["Do not arch your back when raising the bar to your shoulders."]
   },
   {
     "id": 83,
@@ -595,13 +509,8 @@
     "primer": "This is an exercise for shoulder, biceps and upper back strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "biceps",
-      "upper back"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["biceps", "upper back"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=83&number=0&key=69cadbdd2&version=58426e8b&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=83&number=1&key=69cadbdd2&version=64c4da08&size=960,960&download=large"
@@ -634,13 +543,8 @@
     "primer": "This is an exercise for shoulder, trapezius and middle back strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "trapezius",
-      "middle back"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["trapezius", "middle back"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=87&number=0&key=69cadbdd2&version=619187e9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=87&number=1&key=69cadbdd2&version=71a6b325&size=960,960&download=large"
@@ -672,13 +576,8 @@
     "primer": "This is an exercise for lateral deltoid, shoulder and forearm strengthening.",
     "type": "isolation",
     "primary": "lateral deltoid",
-    "secondary": [
-      "forearm",
-      "shoulders"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["forearm", "shoulders"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=90&number=0&key=69cadbdd2&version=996307ee&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=90&number=1&key=69cadbdd2&version=0e28652b&size=960,960&download=large"
@@ -709,13 +608,8 @@
     "primer": "This is an exercise to strengthen and stretch the rotator cuff muscles or shoulder muscles.",
     "type": "compound",
     "primary": "shoulders",
-    "secondary": [
-      "biceps",
-      "triceps"
-    ],
-    "equipment": [
-      "swiss ball"
-    ],
+    "secondary": ["biceps", "triceps"],
+    "equipment": ["swiss ball"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=93&number=0&key=69cadbdd2&version=0330e5a1&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=93&number=1&key=69cadbdd2&version=1541c4c8&size=960,960&download=large"
@@ -746,13 +640,8 @@
     "primer": "This is an exercise for shoulder, middle back and triceps strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "triceps",
-      "middle back"
-    ],
-    "equipment": [
-      "exercise band"
-    ],
+    "secondary": ["triceps", "middle back"],
+    "equipment": ["exercise band"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=96&number=0&key=69cadbdd2&version=7b073df3&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=96&number=1&key=69cadbdd2&version=320ed35e&size=960,960&download=large"
@@ -783,9 +672,7 @@
     "primer": "This is an exercise for lower abdominal strengthening.",
     "type": "isolation",
     "primary": "lower abdominals",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=99&number=0&key=69cadbdd2&version=73b7f481&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=99&number=1&key=69cadbdd2&version=8be67f23&size=960,960&download=large"
@@ -817,14 +704,8 @@
     "primer": "",
     "type": "isolation",
     "primary": "rear deltoid",
-    "secondary": [
-      "back",
-      "biceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "smith machine"
-    ],
+    "secondary": ["back", "biceps", "shoulders"],
+    "equipment": ["smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=106&number=0&key=69cadbdd2&version=fc329a5b&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=106&number=1&key=69cadbdd2&version=5b1f76c9&size=960,960&download=large"
@@ -857,10 +738,7 @@
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "equipment": [
-      "flat bench",
-      "dumbbells"
-    ],
+    "equipment": ["flat bench", "dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=109&number=0&key=69cadbdd2&version=047053b8&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=109&number=1&key=69cadbdd2&version=5875772d&size=960,960&download=large"
@@ -888,14 +766,8 @@
     "primer": "This is an exercise for deltoid, biceps and trapezius strengthening.",
     "type": "isolation",
     "primary": "posterior deltoid",
-    "secondary": [
-      "lateral deltoid",
-      "biceps",
-      "trapezius"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["lateral deltoid", "biceps", "trapezius"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=112&number=0&key=69cadbdd2&version=93b1d5c4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=112&number=1&key=69cadbdd2&version=8ed34100&size=960,960&download=large"
@@ -913,9 +785,7 @@
       "Switch arms by doing the opposite positioning.",
       "Repeat."
     ],
-    "tips": [
-      "maintain a good posture at all times throughout the exercise."
-    ]
+    "tips": ["maintain a good posture at all times throughout the exercise."]
   },
   {
     "id": 115,
@@ -927,13 +797,8 @@
     "primer": "This is an exercise for middle back, biceps and lower back strengthening.",
     "type": "compound",
     "primary": "middle back",
-    "secondary": [
-      "biceps",
-      "lower back"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["biceps", "lower back"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=115&number=0&key=69cadbdd2&version=e4ea251b&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=115&number=1&key=69cadbdd2&version=ad101940&size=960,960&download=large"
@@ -963,12 +828,8 @@
     "primer": "This is an exercise for middle back and biceps strengthening.",
     "type": "isolation",
     "primary": "middle back",
-    "secondary": [
-      "biceps"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["biceps"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=119&number=0&key=69cadbdd2&version=9dd6b3e6&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=119&number=1&key=69cadbdd2&version=3301cad4&size=960,960&download=large"
@@ -998,12 +859,8 @@
     "primer": "This is an exercise for abdominal and core strengthening which are vital in supporting the spine.",
     "type": "isometric",
     "primary": "abdominals",
-    "secondary": [
-      "core"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["core"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=122&number=0&key=69cadbdd2&version=e32fbc06&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=122&number=1&key=69cadbdd2&version=bd2a20bb&size=960,960&download=large"
@@ -1033,12 +890,8 @@
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "biceps"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["biceps"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=126&number=0&key=69cadbdd2&version=21997d65&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=126&number=1&key=69cadbdd2&version=eba33197&size=960,960&download=large"
@@ -1066,21 +919,13 @@
     "primer": "This is an exercise for middle back, biceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "middle back",
-    "secondary": [
-      "biceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "t-bar machine"
-    ],
+    "secondary": ["biceps", "shoulders"],
+    "equipment": ["t-bar machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=130&number=0&key=69cadbdd2&version=ac3a0774&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=130&number=1&key=69cadbdd2&version=77d52543&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/t-bar-rows-1.png",
-      "_images/web/t-bar-rows-2.png"
-    ],
+    "img": ["_images/web/t-bar-rows-1.png", "_images/web/t-bar-rows-2.png"],
     "steps": [
       "Place your feet on either side of a T-Bar Machine.",
       "With your knees slightly bent and abs drawn in, grasp the handles with a narrow grip.",
@@ -1103,9 +948,7 @@
     "primer": "This is an exercise for trapezius strengthening.",
     "type": "isolation",
     "primary": "trapezius",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=134&number=0&key=69cadbdd2&version=d3cabdff&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=134&number=1&key=69cadbdd2&version=2fc67cd1&size=960,960&download=large"
@@ -1122,9 +965,7 @@
       "Pause for a moment at the top and then return to starting position in a controlled motion.",
       "Repeat."
     ],
-    "tips": [
-      "Do not arch your back at all during the exercise."
-    ]
+    "tips": ["Do not arch your back at all during the exercise."]
   },
   {
     "id": 137,
@@ -1136,9 +977,7 @@
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=137&number=0&key=69cadbdd2&version=9953e6cc&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=137&number=1&key=69cadbdd2&version=0322b66d&size=960,960&download=large"
@@ -1164,9 +1003,7 @@
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "equipment": [
-      "dumbbells"
-    ],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=143&number=0&key=69cadbdd2&version=b6260102&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=143&number=1&key=69cadbdd2&version=f0f4b8d5&size=960,960&download=large"
@@ -1196,9 +1033,7 @@
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "equipment": [
-      "dumbbells"
-    ],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=146&number=0&key=69cadbdd2&version=038d3f51&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=146&number=1&key=69cadbdd2&version=5fc4f682&size=960,960&download=large"
@@ -1224,12 +1059,8 @@
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": "compound",
     "primary": "shoulders",
-    "secondary": [
-      "biceps"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["biceps"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=149&number=0&key=69cadbdd2&version=2dd7d1a2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=149&number=1&key=69cadbdd2&version=d0fa8db8&size=960,960&download=large"
@@ -1245,9 +1076,7 @@
       "Return to starting position.",
       "Repeat with right arm."
     ],
-    "tips": [
-      "Ensure your back is straight throughout the exercise."
-    ]
+    "tips": ["Ensure your back is straight throughout the exercise."]
   },
   {
     "id": 152,
@@ -1259,9 +1088,7 @@
     "primer": "Tis is an exercise for shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "equipment": [
-      "cable machine"
-    ],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=152&number=0&key=69cadbdd2&version=cecf8b97&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=152&number=1&key=69cadbdd2&version=7353f148&size=960,960&download=large"
@@ -1288,12 +1115,8 @@
     "primer": "This is a three point exercise for shoulder and middle back strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "middle back"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["middle back"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=163&number=0&key=69cadbdd2&version=9ef03565&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=163&number=1&key=69cadbdd2&version=43883c70&size=960,960&download=large",
@@ -1327,10 +1150,7 @@
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "equipment": [
-      "dumbbell",
-      "flat bench"
-    ],
+    "equipment": ["dumbbell", "flat bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=164&number=0&key=69cadbdd2&version=a528f8a8&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=164&number=1&key=69cadbdd2&version=4302dd3e&size=960,960&download=large"
@@ -1347,9 +1167,7 @@
       "Keep your arm straight and perpendicular to your chest with a slight bend in the elbow.",
       "In a slow controlled manner lower your arm to starting position."
     ],
-    "tips": [
-      "Ensure your back is straight throughout this exercise."
-    ]
+    "tips": ["Ensure your back is straight throughout this exercise."]
   },
   {
     "id": 167,
@@ -1361,13 +1179,8 @@
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "triceps",
-      "biceps"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["triceps", "biceps"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=167&number=0&key=69cadbdd2&version=643bb0f4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=167&number=1&key=69cadbdd2&version=2d1d59f8&size=960,960&download=large"
@@ -1394,12 +1207,8 @@
     "primer": "This is an exercise for shoulder and trapezius strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "trapezius"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["trapezius"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=170&number=0&key=69cadbdd2&version=b74858a0&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=170&number=1&key=69cadbdd2&version=b7056e17&size=960,960&download=large"
@@ -1426,12 +1235,8 @@
     "primer": "This is an exercise for shoulder and biceps strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "biceps"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["biceps"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=210&number=0&key=69cadbdd2&version=289dfb94&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=210&number=1&key=69cadbdd2&version=bbbb73ad&size=960,960&download=large"
@@ -1458,9 +1263,7 @@
     "primer": "This is an exercise for shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "equipment": [
-      "smith machine"
-    ],
+    "equipment": ["smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=215&number=0&key=69cadbdd2&version=11647baf&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=215&number=1&key=69cadbdd2&version=43a41394&size=960,960&download=large"
@@ -1487,13 +1290,8 @@
     "primer": "This is an exercise for chest and triceps strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps"
-    ],
-    "equipment": [
-      "incline bench",
-      "barbell"
-    ],
+    "secondary": ["triceps"],
+    "equipment": ["incline bench", "barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=219&number=0&key=69cadbdd2&version=b74cfe62&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=219&number=1&key=69cadbdd2&version=7e721957&size=960,960&download=large"
@@ -1524,13 +1322,8 @@
     "primer": "This is an exercise for chest and biceps strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "biceps"
-    ],
-    "equipment": [
-      "exercise band",
-      "incline bench"
-    ],
+    "secondary": ["biceps"],
+    "equipment": ["exercise band", "incline bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=222&number=0&key=69cadbdd2&version=fa97f6d4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=222&number=1&key=69cadbdd2&version=56e933fe&size=960,960&download=large"
@@ -1557,15 +1350,8 @@
     "primer": "This is an exercise for chest, triceps, shoulders and lats strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "lats",
-      "shoulders",
-      "triceps"
-    ],
-    "equipment": [
-      "barbell",
-      "flat bench"
-    ],
+    "secondary": ["lats", "shoulders", "triceps"],
+    "equipment": ["barbell", "flat bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=225&number=0&key=69cadbdd2&version=35ae692a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=225&number=1&key=69cadbdd2&version=89cafc9d&size=960,960&download=large"
@@ -1592,15 +1378,8 @@
     "primer": "This is an exercise for chest, shoulder, lats and biceps strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "triceps",
-      "lats"
-    ],
-    "equipment": [
-      "flat bench",
-      "dumbbell"
-    ],
+    "secondary": ["shoulders", "triceps", "lats"],
+    "equipment": ["flat bench", "dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=228&number=0&key=69cadbdd2&version=d79ab0a2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=228&number=1&key=69cadbdd2&version=6bdbbf00&size=960,960&download=large"
@@ -1627,9 +1406,7 @@
     "primer": "This is an exercise for chest strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "equipment": [
-      "butterfly machine"
-    ],
+    "equipment": ["butterfly machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=231&number=0&key=69cadbdd2&version=97544261&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=231&number=1&key=69cadbdd2&version=d33484fe&size=960,960&download=large"
@@ -1657,12 +1434,8 @@
     "primer": "This is an exercise for chest and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["shoulders"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=234&number=0&key=69cadbdd2&version=700e11c7&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=234&number=1&key=69cadbdd2&version=3583777e&size=960,960&download=large"
@@ -1689,13 +1462,8 @@
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=238&number=0&key=69cadbdd2&version=32b3424f&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=238&number=1&key=69cadbdd2&version=d253d762&size=960,960&download=large"
@@ -1723,13 +1491,8 @@
     "primer": "This is an exercise for chest, biceps and shoulder strengthening",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "biceps"
-    ],
-    "equipment": [
-      "exercise band"
-    ],
+    "secondary": ["shoulders", "biceps"],
+    "equipment": ["exercise band"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=249&number=0&key=69cadbdd2&version=074f3e3b&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=249&number=1&key=69cadbdd2&version=4cf6c62b&size=960,960&download=large"
@@ -1760,14 +1523,8 @@
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "decline bench",
-      "barbell"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["decline bench", "barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=253&number=0&key=69cadbdd2&version=e114495d&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=253&number=1&key=69cadbdd2&version=b8581a24&size=960,960&download=large"
@@ -1795,14 +1552,8 @@
     "primer": "This is an exercise for chest, shoulder and triceps strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "dumbbells",
-      "decline bench"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["dumbbells", "decline bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=256&number=0&key=69cadbdd2&version=585eb7f5&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=256&number=1&key=69cadbdd2&version=9abae43d&size=960,960&download=large"
@@ -1828,13 +1579,8 @@
     "primer": "This is an exercise for chest and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders"
-    ],
-    "equipment": [
-      "dumbbells",
-      "decline bench"
-    ],
+    "secondary": ["shoulders"],
+    "equipment": ["dumbbells", "decline bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=260&number=0&key=69cadbdd2&version=9bd5915a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=260&number=1&key=69cadbdd2&version=6a40092e&size=960,960&download=large"
@@ -1861,22 +1607,13 @@
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "body",
-      "parallel bars"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["body", "parallel bars"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=263&number=0&key=69cadbdd2&version=1133320a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=263&number=1&key=69cadbdd2&version=be870cf1&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/chest-dips-1.png",
-      "_images/web/chest-dips-2.png"
-    ],
+    "img": ["_images/web/chest-dips-1.png", "_images/web/chest-dips-2.png"],
     "steps": [
       "Stand in between the parallel bars.",
       "Grip the handles of the parallel bars and push yourself up to the starting position with straightened arms.",
@@ -1884,9 +1621,7 @@
       "Raise yourself back up to the starting position and repeat.",
       "Repeat."
     ],
-    "tips": [
-      "Ensure not to lock your elbows once you have raised yourself up."
-    ]
+    "tips": ["Ensure not to lock your elbows once you have raised yourself up."]
   },
   {
     "id": 266,
@@ -1898,14 +1633,8 @@
     "primer": "This is  an exercise for chest,triceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "triceps"
-    ],
-    "equipment": [
-      "dumbbells",
-      "flat bench"
-    ],
+    "secondary": ["shoulders", "triceps"],
+    "equipment": ["dumbbells", "flat bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=266&number=0&key=69cadbdd2&version=cff44542&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=266&number=1&key=69cadbdd2&version=16050569&size=960,960&download=large"
@@ -1935,14 +1664,8 @@
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "triceps"
-    ],
-    "equipment": [
-      "flat bench",
-      "dumbbells"
-    ],
+    "secondary": ["shoulders", "triceps"],
+    "equipment": ["flat bench", "dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=270&number=0&key=69cadbdd2&version=95988fc6&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=270&number=1&key=69cadbdd2&version=35902a60&size=960,960&download=large"
@@ -1972,13 +1695,8 @@
     "primer": "This is an exercise for chest and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders"
-    ],
-    "equipment": [
-      "flat bench",
-      "cable machine"
-    ],
+    "secondary": ["shoulders"],
+    "equipment": ["flat bench", "cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=273&number=0&key=69cadbdd2&version=62dcab0c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=273&number=1&key=69cadbdd2&version=68ad569e&size=960,960&download=large"
@@ -2007,14 +1725,8 @@
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "barbell",
-      "flat bench"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["barbell", "flat bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=279&number=0&key=69cadbdd2&version=4434f0f3&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=279&number=1&key=69cadbdd2&version=4641a42b&size=960,960&download=large"
@@ -2040,14 +1752,8 @@
     "primer": "This is an advanced exercise for strengthening the chest, triceps and shoulders.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "triceps"
-    ],
-    "equipment": [
-      "dumbbells",
-      "incline bench"
-    ],
+    "secondary": ["shoulders", "triceps"],
+    "equipment": ["dumbbells", "incline bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=282&number=0&key=69cadbdd2&version=2758d8ea&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=282&number=1&key=69cadbdd2&version=954f9957&size=960,960&download=large"
@@ -2074,15 +1780,8 @@
     "primer": "This exercise is an alternative to the Butterfly or Pec Deck, it defines the muscles of the chest.Place an incline bench set at a 45 degree angle between two cable towers.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "biceps",
-      "triceps",
-      "forearm"
-    ],
-    "equipment": [
-      "incline bench",
-      "cable machine"
-    ],
+    "secondary": ["biceps", "triceps", "forearm"],
+    "equipment": ["incline bench", "cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=287&number=0&key=69cadbdd2&version=b2db0497&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=287&number=1&key=69cadbdd2&version=4d5f94c0&size=960,960&download=large"
@@ -2108,14 +1807,8 @@
     "primer": "This is an advanced exercise for building and sculpting the chest as well as your triceps and shoulders.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "dumbbells",
-      "incline bench"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["dumbbells", "incline bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=291&number=0&key=69cadbdd2&version=56ee5942&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=291&number=1&key=69cadbdd2&version=ec68d988&size=960,960&download=large"
@@ -2142,13 +1835,8 @@
     "primer": "This is an exercise for chest sculpting and strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders"
-    ],
-    "equipment": [
-      "incline bench",
-      "dumbbells"
-    ],
+    "secondary": ["shoulders"],
+    "equipment": ["incline bench", "dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=296&number=0&key=69cadbdd2&version=564aac7a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=296&number=1&key=69cadbdd2&version=da5da3d0&size=960,960&download=large"
@@ -2177,13 +1865,8 @@
     "primer": "This is an exercise for chest sculpting and strengthening which is very similar to the incline fly's.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders"
-    ],
-    "equipment": [
-      "incline bench",
-      "dumbbells"
-    ],
+    "secondary": ["shoulders"],
+    "equipment": ["incline bench", "dumbbells"],
     "images": [],
     "steps": [
       "Lie on an incline bench set at a 45 degree angle with a dumbbell in each hand and your feet flat on the ground.",
@@ -2206,10 +1889,7 @@
     "primer": "This is an advanced strengthening exercise which targets the pectoral or chest muscles.",
     "type": "isolation",
     "primary": "chest",
-    "equipment": [
-      "decline bench",
-      "barbell"
-    ],
+    "equipment": ["decline bench", "barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=302&number=0&key=69cadbdd2&version=d7f03a23&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=302&number=1&key=69cadbdd2&version=e9ee8097&size=960,960&download=large"
@@ -2238,13 +1918,8 @@
     "primer": "This is an exercise for chest, biceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "bench press machine"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["bench press machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=305&number=0&key=69cadbdd2&version=b3835aa6&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=305&number=1&key=69cadbdd2&version=41a7071f&size=960,960&download=large"
@@ -2270,13 +1945,8 @@
     "primer": "This is an advanced exercise for chest strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "biceps"
-    ],
-    "equipment": [
-      "barbell",
-      "flat bench"
-    ],
+    "secondary": ["biceps"],
+    "equipment": ["barbell", "flat bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=309&number=0&key=69cadbdd2&version=06664a87&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=309&number=1&key=69cadbdd2&version=708cd762&size=960,960&download=large"
@@ -2306,14 +1976,8 @@
     "primer": "This is an advanced strengthening exercise for the chest and rotator cuff muscles of the shoulder.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "flat bench",
-      "dumbbell"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["flat bench", "dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=312&number=0&key=69cadbdd2&version=4987e411&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=312&number=1&key=69cadbdd2&version=4749c0b8&size=960,960&download=large"
@@ -2345,14 +2009,8 @@
     "primer": "This is an exercise for chest, core, shoulders and triceps strengthening with the use of a Bosu ball.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "core",
-      "triceps"
-    ],
-    "equipment": [
-      "bosu ball"
-    ],
+    "secondary": ["shoulders", "core", "triceps"],
+    "equipment": ["bosu ball"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=315&number=0&key=69cadbdd2&version=16ed583c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=315&number=1&key=69cadbdd2&version=6e6e0a96&size=960,960&download=large"
@@ -2383,12 +2041,8 @@
     "primer": "This is an exercise for chest and triceps strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["triceps"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=318&number=0&key=69cadbdd2&version=766566c1&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=318&number=1&key=69cadbdd2&version=014bebe8&size=960,960&download=large"
@@ -2415,10 +2069,7 @@
     "primer": "This is an exercise for chest strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "equipment": [
-      "flat bench",
-      "dumbell"
-    ],
+    "equipment": ["flat bench", "dumbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=321&number=0&key=69cadbdd2&version=81ff5490&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=321&number=1&key=69cadbdd2&version=99b58041&size=960,960&download=large"
@@ -2444,15 +2095,8 @@
     "primer": "This is an exercise for chest strengthening but also strengthens ones core, shoulders, biceps and triceps.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "bicpes",
-      "shoulders",
-      "core"
-    ],
-    "equipment": [
-      "bosu ball"
-    ],
+    "secondary": ["triceps", "bicpes", "shoulders", "core"],
+    "equipment": ["bosu ball"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=324&number=0&key=69cadbdd2&version=76cc5a85&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=324&number=1&key=69cadbdd2&version=c08ea570&size=960,960&download=large"
@@ -2480,14 +2124,8 @@
     "primer": "These are variations on Push Ups, one of the best exercise for muscles of the chest (pectorals), arms (bicep and triceps) and core development. The core muscles are the rectus abdomen and oblique’s which support the spine.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders",
-      "core"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["triceps", "shoulders", "core"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=327&number=0&key=69cadbdd2&version=65cad1c3&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=327&number=1&key=69cadbdd2&version=8f57eaeb&size=960,960&download=large"
@@ -2541,14 +2179,8 @@
     "primer": "This is the same general movement as with a Push Up except your feet are elevated allowing greater range of motions and targeting the pectorals differently than the regular Push Up.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "triceps"
-    ],
-    "equipment": [
-      "body",
-      "bench"
-    ],
+    "secondary": ["shoulders", "triceps"],
+    "equipment": ["body", "bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=333&number=0&key=69cadbdd2&version=c8330815&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=333&number=1&key=69cadbdd2&version=2c537a02&size=960,960&download=large"
@@ -2575,14 +2207,8 @@
     "primer": "This is similar to the standard Push Up except using an Exercise Ball forces you to engage the muscle of your core (Rectus Abdominis, Transverse Abdominis, and the Obliques).",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "body",
-      "exercise ball"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["body", "exercise ball"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=337&number=0&key=69cadbdd2&version=ed6aae08&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=337&number=1&key=69cadbdd2&version=c36c70b1&size=960,960&download=large"
@@ -2608,21 +2234,13 @@
     "primer": "This exercise is the main strengthening exercise when wanting to strengthen ones chest, biceps and triceps as well as core muscles.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=340&number=0&key=69cadbdd2&version=52850b73&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=340&number=1&key=69cadbdd2&version=b3f29a67&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/push-ups-1.png",
-      "_images/web/push-ups-2.png"
-    ],
+    "img": ["_images/web/push-ups-1.png", "_images/web/push-ups-2.png"],
     "steps": [
       "Start with a basic push up, lay face down on the floor, or a mat; with your feet together curled slightly so you rise onto the ball of your feet.",
       "Place you hands shoulder width apart on the either side of your chest.",
@@ -2643,14 +2261,8 @@
     "primer": "With the use of a Smith Machine this exercise strengthens your chest shoulders and triceps.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "triceps"
-    ],
-    "equipment": [
-      "flat bench",
-      "smith machine"
-    ],
+    "secondary": ["shoulders", "triceps"],
+    "equipment": ["flat bench", "smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=343&number=0&key=69cadbdd2&version=9c147ab5&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=343&number=1&key=69cadbdd2&version=b2a14b0b&size=960,960&download=large"
@@ -2680,15 +2292,8 @@
     "primer": "This is an exercise for chest and shoulder strengthening which mainly targets the rotator cuff muscles.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "lats",
-      "shoulders"
-    ],
-    "equipment": [
-      "flat bench",
-      "dumbbell"
-    ],
+    "secondary": ["triceps", "lats", "shoulders"],
+    "equipment": ["flat bench", "dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=346&number=0&key=69cadbdd2&version=20751ccd&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=346&number=1&key=69cadbdd2&version=69fbf773&size=960,960&download=large"
@@ -2715,14 +2320,8 @@
     "primer": "This exercises is for mainly chest strengthening but also strengthens your triceps and shoulders.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "dumbbells",
-      "incline bench"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["dumbbells", "incline bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=350&number=0&key=69cadbdd2&version=c9109a34&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=350&number=1&key=69cadbdd2&version=dd490d33&size=960,960&download=large"
@@ -2774,14 +2373,8 @@
     "primer": "This is an exercise for chest, shoulder and triceps strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "triceps"
-    ],
-    "equipment": [
-      "smith machine",
-      "incline bench"
-    ],
+    "secondary": ["shoulders", "triceps"],
+    "equipment": ["smith machine", "incline bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=355&number=0&key=69cadbdd2&version=b6e424d4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=355&number=1&key=69cadbdd2&version=c09ecddc&size=960,960&download=large"
@@ -2811,14 +2404,8 @@
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "flat bench",
-      "barbell"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["flat bench", "barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=358&number=0&key=69cadbdd2&version=81bf15cf&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=358&number=1&key=69cadbdd2&version=a4a960d9&size=960,960&download=large"
@@ -2849,14 +2436,8 @@
     "primer": "This is an exercise for chest, triceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "barbell",
-      "decline bench"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["barbell", "decline bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=362&number=0&key=69cadbdd2&version=c76ee40f&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=362&number=1&key=69cadbdd2&version=2f6bc9af&size=960,960&download=large"
@@ -2884,13 +2465,8 @@
     "primer": "This exercise is for strengthening the upper chest and is preferred among beginners as it provides support and control.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "chest machine"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["chest machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=365&number=0&key=69cadbdd2&version=fd3dac0c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=365&number=1&key=69cadbdd2&version=f4f7b2f8&size=960,960&download=large"
@@ -2915,13 +2491,8 @@
     "primer": "This is an exercise for the strengthening of the lower chest or pectoral muscles and is preferred by beginners as it provides support and stability.",
     "type": "isolation",
     "primary": "chest",
-    "secondary": [
-      "shoulders",
-      "triceps"
-    ],
-    "equipment": [
-      "chest machine"
-    ],
+    "secondary": ["shoulders", "triceps"],
+    "equipment": ["chest machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=368&number=0&key=69cadbdd2&version=76567dd4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=368&number=1&key=69cadbdd2&version=a6b36cca&size=960,960&download=large"
@@ -2946,22 +2517,13 @@
     "primer": "This is a good overall exercise which strengthens your chest, core and back muscles.",
     "type": "compound",
     "primary": "chest",
-    "secondary": [
-      "core",
-      "neck",
-      "back"
-    ],
-    "equipment": [
-      "bar"
-    ],
+    "secondary": ["core", "neck", "back"],
+    "equipment": ["bar"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=371&number=0&key=69cadbdd2&version=fef3b9ac&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=371&number=1&key=69cadbdd2&version=9d6f6d0b&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/body-row-1.png",
-      "_images/web/body-row-2.png"
-    ],
+    "img": ["_images/web/body-row-1.png", "_images/web/body-row-2.png"],
     "steps": [
       "Lie under a bar so that the bar is at mid chest level and your feet are firmly on the floor.",
       "Draw your abs in and keep your back flat.",
@@ -2980,21 +2542,13 @@
     "primer": "This is an exercise in lats, biceps and middle back strengthening.",
     "type": "isolation",
     "primary": "lats",
-    "secondary": [
-      "middle back",
-      "biceps"
-    ],
-    "equipment": [
-      "bar"
-    ],
+    "secondary": ["middle back", "biceps"],
+    "equipment": ["bar"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=374&number=0&key=69cadbdd2&version=b2fcdad0&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=374&number=1&key=69cadbdd2&version=fbe8dcfa&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/pull-ups-1.png",
-      "_images/web/pull-ups-2.png"
-    ],
+    "img": ["_images/web/pull-ups-1.png", "_images/web/pull-ups-2.png"],
     "steps": [
       "Grab the pull-up bar with the palms facing forward using the prescribed grip.",
       "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
@@ -3015,14 +2569,8 @@
     "primer": "This is an exercise for lats, biceps and middle back strengthening; which is similar t the basic chin up but focusses more on lats.",
     "type": "isolation",
     "primary": "lats",
-    "secondary": [
-      "biceps",
-      "middle back"
-    ],
-    "equipment": [
-      "body",
-      "bar"
-    ],
+    "secondary": ["biceps", "middle back"],
+    "equipment": ["body", "bar"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=377&number=0&key=69cadbdd2&version=b78d1e1b&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=377&number=1&key=69cadbdd2&version=da66d1ca&size=960,960&download=large"
@@ -3053,22 +2601,13 @@
     "primer": "This is an extremely good exercise for upper arm and middle back strengthening.",
     "type": "isolation",
     "primary": "lats",
-    "secondary": [
-      "biceps",
-      "middle back"
-    ],
-    "equipment": [
-      "body",
-      "bar"
-    ],
+    "secondary": ["biceps", "middle back"],
+    "equipment": ["body", "bar"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=380&number=0&key=69cadbdd2&version=30f71856&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=380&number=1&key=69cadbdd2&version=6cc58063&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/chin-ups-1.png",
-      "_images/web/chin-ups-2.png"
-    ],
+    "img": ["_images/web/chin-ups-1.png", "_images/web/chin-ups-2.png"],
     "steps": [
       "Grasp the bar with an supinated (overhand) grip.",
       "Let your body hang from the bar with your arms straight.",
@@ -3089,14 +2628,8 @@
     "primer": "This is an exercise similar to the regular Chin Up but focuses more on shoulder strengthening.",
     "type": "isolation",
     "primary": "shoulders, lats",
-    "secondary": [
-      "back",
-      "core"
-    ],
-    "equipment": [
-      "bar",
-      "body"
-    ],
+    "secondary": ["back", "core"],
+    "equipment": ["bar", "body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=383&number=0&key=69cadbdd2&version=ee063c41&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=383&number=1&key=69cadbdd2&version=6b77373b&size=960,960&download=large"
@@ -3125,10 +2658,7 @@
     "url": "http://db.everkinetic.com/exercise/wide-grip-chin-up",
     "primer": "This variation on the basic chin up is a great exercise for people who rock climb.",
     "primary": "back",
-    "secondary": [
-      "neck",
-      "biceps"
-    ],
+    "secondary": ["neck", "biceps"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=386&number=0&key=69cadbdd2&version=920bb525&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=386&number=1&key=69cadbdd2&version=37eb3e1c&size=960,960&download=large"
@@ -3158,12 +2688,8 @@
     "primer": "This exercise for strengthening the Lats and also works the Triceps.",
     "type": "isolation",
     "primary": "lats",
-    "secondary": [
-      "triceps"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["triceps"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=389&number=0&key=69cadbdd2&version=73604806&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=389&number=1&key=69cadbdd2&version=d9d3cac1&size=960,960&download=large"
@@ -3189,12 +2715,8 @@
     "primer": "This is an exercise for lats and biceps strengthening.",
     "type": "isolation",
     "primary": "lats",
-    "secondary": [
-      "biceps"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["biceps"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=392&number=0&key=69cadbdd2&version=9a8dfdbf&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=392&number=1&key=69cadbdd2&version=b54e8a4c&size=960,960&download=large"
@@ -3220,14 +2742,8 @@
     "primer": "This is an exercise for lats, triceps and shoulder strengthening.",
     "type": "isolation",
     "primary": "lats",
-    "secondary": [
-      "triceps",
-      "shoulders"
-    ],
-    "equipment": [
-      "body",
-      "bands"
-    ],
+    "secondary": ["triceps", "shoulders"],
+    "equipment": ["body", "bands"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=395&number=0&key=69cadbdd2&version=1ec352ee&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=395&number=1&key=69cadbdd2&version=8ddd5391&size=960,960&download=large"
@@ -3253,12 +2769,8 @@
     "primer": "This is an exercise for lats and biceps strengthening.",
     "type": "isolation",
     "primary": "lats",
-    "secondary": [
-      "biceps"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["biceps"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=398&number=0&key=69cadbdd2&version=a459a286&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=398&number=1&key=69cadbdd2&version=c6139faf&size=960,960&download=large"
@@ -3284,13 +2796,8 @@
     "primer": "This is an exercise for lats, biceps and middle back strengthening.",
     "type": "isolation",
     "primary": "lats",
-    "secondary": [
-      "middle back",
-      "biceps"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["middle back", "biceps"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=401&number=0&key=69cadbdd2&version=2677f242&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=401&number=1&key=69cadbdd2&version=da012c76&size=960,960&download=large"
@@ -3317,13 +2824,8 @@
     "primer": "This is an exercise for lats, biceps and middle back strengthening.",
     "type": "isolation",
     "primary": "lats",
-    "secondary": [
-      "biceps",
-      "middle back"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["biceps", "middle back"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=404&number=0&key=69cadbdd2&version=5634c5bc&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=404&number=1&key=69cadbdd2&version=695f735f&size=960,960&download=large"
@@ -3339,9 +2841,7 @@
       "Pause for a moment and then return the bar to the starting position.",
       "Repeat."
     ],
-    "tips": [
-      "Ensure you maintain a straight back trough out this exercise."
-    ]
+    "tips": ["Ensure you maintain a straight back trough out this exercise."]
   },
   {
     "id": 407,
@@ -3353,14 +2853,8 @@
     "primer": "This is an exercise for back, shoulders and neck strengthening.",
     "type": "isolation",
     "primary": "shoulders",
-    "secondary": [
-      "back",
-      "neck"
-    ],
-    "equipment": [
-      "exercise ball",
-      "dumbbell"
-    ],
+    "secondary": ["back", "neck"],
+    "equipment": ["exercise ball", "dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=407&number=0&key=69cadbdd2&version=f483485c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=407&number=1&key=69cadbdd2&version=7e814869&size=960,960&download=large"
@@ -3408,13 +2902,8 @@
     "primer": "The techniques is identical to that of the Smith Machine dead lift except for the fact that this exercise provides less support.",
     "type": "isolation",
     "primary": "lower back",
-    "secondary": [
-      "hamstrings",
-      "calves"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["hamstrings", "calves"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=417&number=0&key=69cadbdd2&version=a040433d&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=417&number=1&key=69cadbdd2&version=94540045&size=960,960&download=large"
@@ -3444,13 +2933,8 @@
     "primer": "This is the same as a Dead Lift but the Smith Machine allows for better control of the weight.",
     "type": "isolation",
     "primary": "lower back",
-    "secondary": [
-      "hamstrings",
-      "calves"
-    ],
-    "equipment": [
-      "smith machine"
-    ],
+    "secondary": ["hamstrings", "calves"],
+    "equipment": ["smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=420&number=0&key=69cadbdd2&version=115108f9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=420&number=1&key=69cadbdd2&version=1f600519&size=960,960&download=large"
@@ -3477,12 +2961,8 @@
     "primer": "This is one of the oldest exercises in bodybuilding but it still is one of the best for working the lower back.",
     "type": "isolation",
     "primary": "lower back",
-    "secondary": [
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=423&number=0&key=69cadbdd2&version=310ed7fc&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=423&number=1&key=69cadbdd2&version=f9c9742d&size=960,960&download=large"
@@ -3508,12 +2988,8 @@
     "primer": "This exercise utilises the same technique of the standard Good Mornings yet the use of the Smith Machine provides more stability.",
     "type": "isolation",
     "primary": "lower back",
-    "secondary": [
-      "hamstrings"
-    ],
-    "equipment": [
-      "smith machine"
-    ],
+    "secondary": ["hamstrings"],
+    "equipment": ["smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=426&number=0&key=69cadbdd2&version=517b3b9e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=426&number=1&key=69cadbdd2&version=37b08eee&size=960,960&download=large"
@@ -3539,13 +3015,8 @@
     "primer": "This exercise not only adds strength but also flexibility to the back and core muscles.",
     "type": "isolation",
     "primary": "lower back",
-    "secondary": [
-      "hamstrings",
-      "core"
-    ],
-    "equipment": [
-      "hyperextension bench"
-    ],
+    "secondary": ["hamstrings", "core"],
+    "equipment": ["hyperextension bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=430&number=0&key=69cadbdd2&version=b599a782&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=430&number=1&key=69cadbdd2&version=14c53d96&size=960,960&download=large"
@@ -3571,13 +3042,8 @@
     "primer": "This exercise provides flexibility as it strengthens the muscles of the back and core.",
     "type": "isolation",
     "primary": "lower back",
-    "secondary": [
-      "core",
-      "hamstrings"
-    ],
-    "equipment": [
-      "exercise ball"
-    ],
+    "secondary": ["core", "hamstrings"],
+    "equipment": ["exercise ball"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=433&number=0&key=69cadbdd2&version=3dba1b90&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=433&number=1&key=69cadbdd2&version=f1a6dbc0&size=960,960&download=large"
@@ -3603,20 +3069,13 @@
     "primer": "This is an excellent exercise and a stretch for the lower back and core muscles.",
     "type": "isolation",
     "primary": "lower back",
-    "secondary": [
-      "core"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["core"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=436&number=0&key=69cadbdd2&version=5b45371b&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=436&number=1&key=69cadbdd2&version=7a1d6486&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/supermans-1.png",
-      "_images/web/supermans-2.png"
-    ],
+    "img": ["_images/web/supermans-1.png", "_images/web/supermans-2.png"],
     "steps": [
       "Lie flat on your stomach with your arms stretched out in front of you.",
       "Raise your arms and legs off the floor and hold this position for 2 seconds.",
@@ -3634,13 +3093,8 @@
     "primer": "This is an exercise for lower back, hamstring and calves strengthening.",
     "type": "isolation",
     "primary": "lower back",
-    "secondary": [
-      "calves",
-      "hamstring"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["calves", "hamstring"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=444&number=0&key=69cadbdd2&version=e7c2e70e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=444&number=1&key=69cadbdd2&version=ee030537&size=960,960&download=large"
@@ -3672,20 +3126,13 @@
     "primer": "This is an excellent exercise for strengthening and maintaining the core muscles.",
     "type": "isolation",
     "primary": "gluts",
-    "secondary": [
-      "core"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["core"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=447&number=0&key=69cadbdd2&version=8f3c61db&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=447&number=1&key=69cadbdd2&version=8d4ca279&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/bridging-1.png",
-      "_images/web/bridging-2.png"
-    ],
+    "img": ["_images/web/bridging-1.png", "_images/web/bridging-2.png"],
     "steps": [
       "Lie on your back with your knees bent and your feet flat on the floor.",
       "Lift up hips and bum off the floor as you draw your abs in and keep your gluts tight."
@@ -3701,12 +3148,8 @@
     "primer": "This is an exercise for gluts and hamstring strengthening.",
     "type": "isolation",
     "primary": "gluts",
-    "secondary": [
-      "hamstring"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["hamstring"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=450&number=0&key=69cadbdd2&version=5677972e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=450&number=1&key=69cadbdd2&version=d9916af1&size=960,960&download=large"
@@ -3732,12 +3175,8 @@
     "primer": "This is an exercise for gluts and hamstring strengthening.",
     "type": "isolation",
     "primary": "gluts",
-    "secondary": [
-      "hamstring"
-    ],
-    "equipment": [
-      "cable machine"
-    ],
+    "secondary": ["hamstring"],
+    "equipment": ["cable machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=453&number=0&key=69cadbdd2&version=a782245e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=453&number=1&key=69cadbdd2&version=6a876bfc&size=960,960&download=large"
@@ -3763,17 +3202,12 @@
     "primer": "This is an exercise for core strengthening.",
     "type": "isolation",
     "primary": "core",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=456&number=0&key=69cadbdd2&version=9d379ce4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=456&number=1&key=69cadbdd2&version=27e06d67&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/side-plank-1.png",
-      "_images/web/side-plank-2.png"
-    ],
+    "img": ["_images/web/side-plank-1.png", "_images/web/side-plank-2.png"],
     "steps": [
       "Lay on one side of your body with your legs straight and your forearm perpendicular to your body in front of you.",
       "Drawing your abs in, slowly raise yourself up so you are balanced on your feet and your forearm.",
@@ -3791,14 +3225,8 @@
     "primer": "This is a classic exercise used for strengthening the hamstrings, quadriceps, calves and gluts.",
     "type": "isolation",
     "primary": "hamstring",
-    "secondary": [
-      "gluts",
-      "quadriceps",
-      "calves"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["gluts", "quadriceps", "calves"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=459&number=0&key=69cadbdd2&version=40be9ee4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=459&number=1&key=69cadbdd2&version=607095e1&size=960,960&download=large"
@@ -3829,14 +3257,8 @@
     "primer": "This is an exercise for whole leg but mainly hamstring strengthening.",
     "type": "isolation",
     "primary": "hamstring",
-    "secondary": [
-      "gluts",
-      "quadriceps",
-      "calves"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["gluts", "quadriceps", "calves"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=462&number=0&key=69cadbdd2&version=1b9c02c9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=462&number=1&key=69cadbdd2&version=c3ad123c&size=960,960&download=large"
@@ -3867,12 +3289,8 @@
     "primer": "This is an exercise for quadriceps and hamstring strengthening.",
     "type": "isolation",
     "primary": "hamstrings",
-    "secondary": [
-      "quadriceps"
-    ],
-    "equipment": [
-      "flat bench"
-    ],
+    "secondary": ["quadriceps"],
+    "equipment": ["flat bench"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=465&number=0&key=69cadbdd2&version=7e9d72e2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=465&number=1&key=69cadbdd2&version=18269d12&size=960,960&download=large"
@@ -3899,9 +3317,7 @@
     "primer": "This is an exercise for hamstring strengthening.",
     "type": "isolation",
     "primary": "hamstring",
-    "equipment": [
-      "machine"
-    ],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=468&number=0&key=69cadbdd2&version=4964a01c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=468&number=1&key=69cadbdd2&version=d83361e0&size=960,960&download=large"
@@ -3927,14 +3343,8 @@
     "primer": "This is an exercise similar to the regular dead lift and strengthens the hamstring, calves, quadriceps and gluts.",
     "type": "isolation",
     "primary": "hamstrings",
-    "secondary": [
-      "calves",
-      "quadriceps",
-      "gluts"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["calves", "quadriceps", "gluts"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=471&number=0&key=69cadbdd2&version=246a1dae&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=471&number=1&key=69cadbdd2&version=d2b09e4f&size=960,960&download=large"
@@ -3962,9 +3372,7 @@
     "primer": "This is an exercise for hamstring strengthening which is similar to the laying leg curls.",
     "type": "isolation",
     "primary": "hamstrings",
-    "equipment": [
-      "machine"
-    ],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=474&number=0&key=69cadbdd2&version=9a7e9ef9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=474&number=1&key=69cadbdd2&version=1ca2624c&size=960,960&download=large"
@@ -3990,9 +3398,7 @@
     "primer": "This is an exercise for hamstring strengthening.",
     "type": "isolation",
     "primary": "hamstrings",
-    "equipment": [
-      "machine"
-    ],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=477&number=0&key=69cadbdd2&version=d2160de2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=477&number=1&key=69cadbdd2&version=3a1cb415&size=960,960&download=large"
@@ -4018,14 +3424,8 @@
     "primer": "A walking lunge gives you the benefit of lunges plus core muscle training from the constant motion.",
     "type": "isolation",
     "primary": "hamstrings",
-    "secondary": [
-      "quadriceps",
-      "gluts",
-      "calves"
-    ],
-    "equipment": [
-      "barbell or dumbbell"
-    ],
+    "secondary": ["quadriceps", "gluts", "calves"],
+    "equipment": ["barbell or dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=480&number=0&key=69cadbdd2&version=78ea5edc&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=480&number=1&key=69cadbdd2&version=92461def&size=960,960&download=large",
@@ -4060,12 +3460,8 @@
     "primer": "",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=485&number=0&key=69cadbdd2&version=d84bc8ac&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=485&number=1&key=69cadbdd2&version=1d39770f&size=960,960&download=large"
@@ -4093,13 +3489,8 @@
     "primer": "This exercise is a variation of the Squat which uses a machine.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings",
-      "calves"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["hamstrings", "calves"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=870&number=0&key=69cadbdd2&version=d5d76838&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=870&number=1&key=69cadbdd2&version=6a1b3984&size=960,960&download=large"
@@ -4128,14 +3519,8 @@
     "primer": "This exercise is a variation of a squat using the Smith Machine.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "gluts",
-      "hamstrings"
-    ],
-    "equipment": [
-      "smith machine"
-    ],
+    "secondary": ["calves", "gluts", "hamstrings"],
+    "equipment": ["smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=875&number=0&key=69cadbdd2&version=843a14e9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=875&number=1&key=69cadbdd2&version=7b08172b&size=960,960&download=large"
@@ -4164,12 +3549,8 @@
     "primer": "This is another variation of the basic Squat that focuses primarily on the quadriceps or thigh muscles.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=876&number=0&key=69cadbdd2&version=42502284&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=876&number=1&key=69cadbdd2&version=fd803f35&size=960,960&download=large"
@@ -4197,13 +3578,8 @@
     "primer": "This is another variation of the basic Squat that focuses primarily on the quadriceps, or thigh muscles, while using the Smith Machine.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings",
-      "gluts"
-    ],
-    "equipment": [
-      "smith machine"
-    ],
+    "secondary": ["hamstrings", "gluts"],
+    "equipment": ["smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=877&number=0&key=69cadbdd2&version=abac3433&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=877&number=1&key=69cadbdd2&version=6a8785d1&size=960,960&download=large"
@@ -4233,21 +3609,13 @@
     "primer": "This exercise is crucial for building and strengthening the legs.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "hamstrings"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["calves", "hamstrings"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=878&number=0&key=69cadbdd2&version=e57ad278&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=878&number=1&key=69cadbdd2&version=79e97d0a&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/leg-press-1.png",
-      "_images/web/leg-press-2.png"
-    ],
+    "img": ["_images/web/leg-press-1.png", "_images/web/leg-press-2.png"],
     "steps": [
       "Along with the Squat, this exercise is crucial for building and strengthening the legs.",
       "Adjust the seat of the machine so that your feet comfortably reach the crosspiece with a slight bend in your knees.",
@@ -4266,15 +3634,8 @@
     "primer": "This is an advanced version of a lunge.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hip abductors",
-      "calves",
-      "gluts",
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["hip abductors", "calves", "gluts", "hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=879&number=0&key=69cadbdd2&version=f0a5a8f6&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=879&number=1&key=69cadbdd2&version=207b967f&size=960,960&download=large"
@@ -4302,15 +3663,8 @@
     "primer": "This is an advanced version of a lunge using a dumbbell.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "hamstrings",
-      "gluts",
-      "hip abductors"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["calves", "hamstrings", "gluts", "hip abductors"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=880&number=0&key=69cadbdd2&version=c39fd91d&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=880&number=1&key=69cadbdd2&version=b5f2f7d1&size=960,960&download=large"
@@ -4338,13 +3692,8 @@
     "primer": "This is a great overall exercise for the lower body that uses dumbbells.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstring",
-      "calves"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["hamstring", "calves"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=881&number=0&key=69cadbdd2&version=6aed76e8&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=881&number=1&key=69cadbdd2&version=1261e484&size=960,960&download=large"
@@ -4373,13 +3722,8 @@
     "primer": "This version of a squat works the hip adductors, helping build better core strength and coordination.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hip abductors",
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["hip abductors", "hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=882&number=0&key=69cadbdd2&version=826f6401&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=882&number=1&key=69cadbdd2&version=2432256e&size=960,960&download=large"
@@ -4405,13 +3749,8 @@
     "primer": "This is an advanced exercise and modification of the basic squat.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["calves", "hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=883&number=0&key=69cadbdd2&version=fdcb40e9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=883&number=1&key=69cadbdd2&version=0d1bb8a6&size=960,960&download=large"
@@ -4439,14 +3778,8 @@
     "primer": "This variation on a squat uses a bench to remind you how far down to squat.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "gluts",
-      "calves",
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["gluts", "calves", "hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=884&number=0&key=69cadbdd2&version=87fd57f2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=884&number=1&key=69cadbdd2&version=8c3f1a52&size=960,960&download=large"
@@ -4476,13 +3809,8 @@
     "primer": "This exercise builds coordination as well as muscle.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings",
-      "calves"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["hamstrings", "calves"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=885&number=0&key=69cadbdd2&version=7d974d9f&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=885&number=1&key=69cadbdd2&version=fb9dfb29&size=960,960&download=large",
@@ -4512,12 +3840,8 @@
     "primer": "This exercises strengthens hip flexors and muscles of the thighs.",
     "type": "isolation",
     "primary": "quadriceps",
-    "secondary": [
-      "hip abductors"
-    ],
-    "equipment": [
-      "cable"
-    ],
+    "secondary": ["hip abductors"],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=886&number=0&key=69cadbdd2&version=4a4f77ed&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=886&number=1&key=69cadbdd2&version=40bcc9f1&size=960,960&download=large"
@@ -4543,14 +3867,8 @@
     "primer": "This variation of a squat uses a bench to remind you how far down to squat.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "hamstring",
-      "gluts"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["calves", "hamstring", "gluts"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=887&number=0&key=69cadbdd2&version=79383ec2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=887&number=1&key=69cadbdd2&version=1d1b8107&size=960,960&download=large"
@@ -4580,13 +3898,8 @@
     "primer": "This exercise builds coordination as well as muscle.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "hamstrings"
-    ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "secondary": ["calves", "hamstrings"],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=888&number=0&key=69cadbdd2&version=6f01804b&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=888&number=1&key=69cadbdd2&version=23fa2c39&size=960,960&download=large",
@@ -4616,13 +3929,8 @@
     "primer": "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings",
-      "calves"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["hamstrings", "calves"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=889&number=0&key=69cadbdd2&version=88a85aef&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=889&number=1&key=69cadbdd2&version=81b1f2a6&size=960,960&download=large"
@@ -4650,13 +3958,8 @@
     "primer": "The Front Squat works the same muscles as the rear squat without placing the weight of the bar on your shoulders.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings",
-      "calves"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["hamstrings", "calves"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=890&number=0&key=69cadbdd2&version=b13fdb93&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=890&number=1&key=69cadbdd2&version=811754c6&size=960,960&download=large"
@@ -4693,9 +3996,7 @@
       "lower back",
       "hamstrings"
     ],
-    "equipment": [
-      "dumbbells"
-    ],
+    "equipment": ["dumbbells"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=891&number=0&key=69cadbdd2&version=507162d2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=891&number=1&key=69cadbdd2&version=f616e3c3&size=960,960&download=large"
@@ -4720,9 +4021,7 @@
     "primer": "This exercise builds and shapes the inner thighs.",
     "type": "compound",
     "primary": "hamstrings",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=892&number=0&key=69cadbdd2&version=2db7e85d&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=892&number=1&key=69cadbdd2&version=565447ad&size=960,960&download=large"
@@ -4749,9 +4048,7 @@
     "primer": "This exercise is a staple for building strong legs.",
     "type": "isolation",
     "primary": "quadriceps",
-    "equipment": [
-      "machine"
-    ],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=893&number=0&key=69cadbdd2&version=cfd35cbb&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=893&number=1&key=69cadbdd2&version=0913c3bc&size=960,960&download=large"
@@ -4778,13 +4075,8 @@
     "primer": "This is a variation of the leg press which targets more of the external muscles of the legs.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "hamstring"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["calves", "hamstring"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=894&number=0&key=69cadbdd2&version=1c781219&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=894&number=1&key=69cadbdd2&version=421f685f&size=960,960&download=large"
@@ -4812,21 +4104,13 @@
     "primer": "This exercise is similar to a Leg Press Machine working the same muscles.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "hamstrings"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["calves", "hamstrings"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=895&number=0&key=69cadbdd2&version=3a7a0c02&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=895&number=1&key=69cadbdd2&version=c2af27cf&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/lying-squat-1.png",
-      "_images/web/lying-squat-2.png"
-    ],
+    "img": ["_images/web/lying-squat-1.png", "_images/web/lying-squat-2.png"],
     "steps": [
       "Adjust the shoulder rack of the machine so that your feet comfortably reach the crosspiece with a slight bend in your knees.",
       "To begin, press your feet forward and release the safety locks.",
@@ -4844,13 +4128,8 @@
     "primer": "Like the Hack Squat, this exercise works the muscles of the leg.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings",
-      "calves"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["hamstrings", "calves"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=896&number=0&key=69cadbdd2&version=7775903e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=896&number=1&key=69cadbdd2&version=a363467a&size=960,960&download=large"
@@ -4879,14 +4158,8 @@
     "primer": "This version of the Squat targets and defines more of the externals leg muscles.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "glutes",
-      "calves",
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["glutes", "calves", "hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=897&number=0&key=69cadbdd2&version=17a9a5ae&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=897&number=1&key=69cadbdd2&version=a4f20a90&size=960,960&download=large"
@@ -4915,14 +4188,8 @@
     "primer": "The One Leg Squat isolates the muscles of the leg for optimal exercise.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "hamstrings",
-      "glutes"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["calves", "hamstrings", "glutes"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=898&number=0&key=69cadbdd2&version=6568a58a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=898&number=1&key=69cadbdd2&version=5a4bf5d0&size=960,960&download=large"
@@ -4961,9 +4228,7 @@
       "trapezius",
       "calves"
     ],
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=899&number=0&key=69cadbdd2&version=37fd6b45&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=899&number=1&key=69cadbdd2&version=361f3667&size=960,960&download=large"
@@ -4990,15 +4255,8 @@
     "primer": "This is an advanced exercise that works most of the muscles of the body.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "abdominals",
-      "glutes",
-      "calves",
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["abdominals", "glutes", "calves", "hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=900&number=0&key=69cadbdd2&version=006bc199&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=900&number=1&key=69cadbdd2&version=863036ad&size=480,480&download=medium"
@@ -5026,16 +4284,8 @@
     "primer": "In this version of the squat you hold the bar overhead as you perform the exercise.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "glutes",
-      "calves",
-      "hamstrings",
-      "shoulders",
-      "lower back"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["glutes", "calves", "hamstrings", "shoulders", "lower back"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=901&number=0&key=69cadbdd2&version=3f6d2310&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=901&number=1&key=69cadbdd2&version=ab285ef9&size=960,960&download=large"
@@ -5062,13 +4312,8 @@
     "primer": "This version of the squat is done with a dumbbell and mimics the action of a pile driver.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings",
-      "calves"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["hamstrings", "calves"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=902&number=0&key=69cadbdd2&version=f28c1e5a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=902&number=1&key=69cadbdd2&version=8ae3305d&size=960,960&download=large"
@@ -5096,14 +4341,8 @@
     "primer": "This version of the squat uses an empty barbell and moves at a faster pace than the standard squat.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "glutes",
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["calves", "glutes", "hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=903&number=0&key=69cadbdd2&version=a6c1f43c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=903&number=1&key=69cadbdd2&version=47317ec7&size=960,960&download=large"
@@ -5131,14 +4370,8 @@
     "primer": "This version of the Squat uses flexible exercise bands for resistance instead of weights.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "glutes",
-      "hamstrings"
-    ],
-    "equipment": [
-      "exercise band"
-    ],
+    "secondary": ["calves", "glutes", "hamstrings"],
+    "equipment": ["exercise band"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=904&number=0&key=69cadbdd2&version=d2f19762&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=904&number=1&key=69cadbdd2&version=23854c77&size=480,480&download=medium"
@@ -5165,12 +4398,8 @@
     "primer": "This exercise targets and works the muscles of the outer thigh.",
     "type": "isolation",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["hamstrings"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=905&number=0&key=69cadbdd2&version=df79da1e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=905&number=1&key=69cadbdd2&version=98910ef2&size=960,960&download=large"
@@ -5196,12 +4425,8 @@
     "primer": "This exercise targets and works the muscles of the inner thigh.",
     "type": "isolation",
     "primary": "quadriceps",
-    "secondary": [
-      "hamstrings"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["hamstrings"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=906&number=0&key=69cadbdd2&version=0234df6c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=906&number=1&key=69cadbdd2&version=000e8675&size=960,960&download=large"
@@ -5227,9 +4452,7 @@
     "primer": "Don't let the name of this exercise fool you, it is a an assisted squat which effectively works the quadriceps.",
     "type": "isolation",
     "primary": "quadriceps",
-    "equipment": [
-      "weight plate"
-    ],
+    "equipment": ["weight plate"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=907&number=0&key=69cadbdd2&version=7d0971f1&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=907&number=1&key=69cadbdd2&version=48a81f05&size=960,960&download=large"
@@ -5256,13 +4479,8 @@
     "primer": "This version of the squat uses a wider stance to isolate the inner thigh.",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "calves",
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["calves", "hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=908&number=0&key=69cadbdd2&version=c0664cdf&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=908&number=1&key=69cadbdd2&version=0c145b7d&size=960,960&download=large"
@@ -5290,14 +4508,8 @@
     "primer": "This variation of squat is similar to a Front Squat, it works to build the Upper muscles of the quadriceps (thighs).",
     "type": "compound",
     "primary": "quadriceps",
-    "secondary": [
-      "glutes",
-      "hamstrings",
-      "calves"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["glutes", "hamstrings", "calves"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=909&number=0&key=69cadbdd2&version=75f503fa&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=909&number=1&key=69cadbdd2&version=fd830378&size=960,960&download=large"
@@ -5326,20 +4538,13 @@
     "primer": "This exercise is one of the most basic and still one of the best for building the triceps.",
     "type": "compound",
     "primary": "triceps",
-    "secondary": [
-      "chest"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["chest"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=910&number=0&key=69cadbdd2&version=dcbd2835&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=910&number=1&key=69cadbdd2&version=59bd585c&size=480,480&download=medium"
     ],
-    "img": [
-      "_images/web/bench-dips-1.png",
-      "_images/web/bench-dips-2.png"
-    ],
+    "img": ["_images/web/bench-dips-1.png", "_images/web/bench-dips-2.png"],
     "steps": [
       "This exercise is one of the most basic and still one of the best for building the triceps (muscles on the back of the arm).",
       "Place two benches parallel to each other 3-4 feet apart.",
@@ -5360,9 +4565,7 @@
     "primer": "This exercise uses cables to isolate and work the triceps.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=911&number=0&key=69cadbdd2&version=59d63a77&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=911&number=1&key=69cadbdd2&version=c9931814&size=960,960&download=large"
@@ -5391,9 +4594,7 @@
     "primer": "This exercise uses cables to isolate and work the triceps.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=912&number=0&key=69cadbdd2&version=f1767af8&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=912&number=1&key=69cadbdd2&version=c2c9fc95&size=960,960&download=large"
@@ -5421,9 +4622,7 @@
     "primer": "This exercise uses cables to isolate and work the triceps.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=913&number=0&key=69cadbdd2&version=0e8708e2&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=913&number=1&key=69cadbdd2&version=d5c2b706&size=480,480&download=medium"
@@ -5452,9 +4651,7 @@
     "primer": "This exercise isolates the triceps muscles individually.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=914&number=0&key=69cadbdd2&version=146b08aa&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=914&number=1&key=69cadbdd2&version=83ec87bd&size=960,960&download=large"
@@ -5482,9 +4679,7 @@
     "primer": "This exercise works the triceps by reaching behind your neck.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=915&number=0&key=69cadbdd2&version=3f667c17&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=915&number=1&key=69cadbdd2&version=e3fe9922&size=960,960&download=large"
@@ -5511,12 +4706,8 @@
     "primer": "This exercise combines a close grip bench press with triceps extension.",
     "type": "isolation",
     "primary": "triceps",
-    "secondary": [
-      "chest"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["chest"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=916&number=0&key=69cadbdd2&version=89b893bb&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=916&number=1&key=69cadbdd2&version=6a1c5c2a&size=480,480&download=medium"
@@ -5544,9 +4735,7 @@
     "primer": "This exercise combines a decline bench and dumbbells to target the triceps.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=917&number=0&key=69cadbdd2&version=a04200bb&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=917&number=1&key=69cadbdd2&version=46326ff7&size=960,960&download=large"
@@ -5571,9 +4760,7 @@
     "primer": "This exercise combines a decline bench and a curved bar to more efficiently work the triceps.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=918&number=0&key=69cadbdd2&version=e630b518&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=918&number=1&key=69cadbdd2&version=98fc3119&size=480,480&download=medium"
@@ -5598,20 +4785,13 @@
     "primer": "This exercise uses a machine to work the triceps while in seated position.",
     "type": "compound",
     "primary": "triceps",
-    "secondary": [
-      "shoulders"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["shoulders"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=919&number=0&key=69cadbdd2&version=e20bc80d&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=919&number=1&key=69cadbdd2&version=1d8e676b&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/tricep-dips-1.png",
-      "_images/web/tricep-dips-2.png"
-    ],
+    "img": ["_images/web/tricep-dips-1.png", "_images/web/tricep-dips-2.png"],
     "steps": [
       "Adjust the seat of the machine so that the handles are equal with your elbows.",
       "Grasping the handles, press down with equal pressure until your arms are fully extended.",
@@ -5628,13 +4808,8 @@
     "primer": "This classic exercise uses the weight of your own body to work your triceps.",
     "type": "compound",
     "primary": "triceps",
-    "secondary": [
-      "shoulders",
-      "chest"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["shoulders", "chest"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=920&number=0&key=69cadbdd2&version=b3e93b82&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=920&number=1&key=69cadbdd2&version=cafe5b70&size=960,960&download=large"
@@ -5660,9 +4835,7 @@
     "primer": "This exercise uses a dumbbell to work each arm individually.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=921&number=0&key=69cadbdd2&version=f6a1a4d6&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=921&number=1&key=69cadbdd2&version=3ee8052d&size=480,480&download=medium"
@@ -5688,9 +4861,7 @@
     "primer": "This version of a triceps extension uses gravity to increase the resistance of the exercise.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=922&number=0&key=69cadbdd2&version=aad9992d&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=922&number=1&key=69cadbdd2&version=711b35de&size=960,960&download=large"
@@ -5716,20 +4887,13 @@
     "primer": "This is an advanced exercise used by bodybuilders and power lifters to build explosive power in the triceps muscle.",
     "type": "compound",
     "primary": "triceps",
-    "secondary": [
-      "shoulders"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["shoulders"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=923&number=0&key=69cadbdd2&version=e72cd90b&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=923&number=1&key=69cadbdd2&version=367033f9&size=480,480&download=medium"
     ],
-    "img": [
-      "_images/web/jm-press-1.png",
-      "_images/web/jm-press-2.png"
-    ],
+    "img": ["_images/web/jm-press-1.png", "_images/web/jm-press-2.png"],
     "steps": [
       "This exercise is named after the inventor, J.M. Blakley. This is an advanced exercise used by bodybuilders and power lifters to build explosive power in the triceps muscle (back of the arms).",
       "Lay on a flat bench with your head just at the end of the bench.",
@@ -5749,9 +4913,7 @@
     "primer": "Concentration exercises limit your range of movement to increase the effectiveness of the movement.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=924&number=0&key=69cadbdd2&version=01bac7ae&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=924&number=1&key=69cadbdd2&version=b9cc10f8&size=480,480&download=medium"
@@ -5779,9 +4941,7 @@
     "primer": "Kneeling allows you to isolate your triceps more effectively.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=925&number=0&key=69cadbdd2&version=251602f1&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=925&number=1&key=69cadbdd2&version=1f31dd26&size=480,480&download=medium"
@@ -5808,9 +4968,7 @@
     "primer": "This exercise is done while lying on a seated row station.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=926&number=0&key=69cadbdd2&version=f466dc32&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=926&number=1&key=69cadbdd2&version=c6c35f35&size=960,960&download=large"
@@ -5837,9 +4995,7 @@
     "primer": "You can use a barbell or EZ bar to further concentrate the benefit to your triceps.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=927&number=0&key=69cadbdd2&version=d07eeb1e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=927&number=1&key=69cadbdd2&version=4d210de1&size=960,960&download=large"
@@ -5866,9 +5022,7 @@
     "primer": "This exercise is a classic for building the triceps.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=928&number=0&key=69cadbdd2&version=240e4089&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=928&number=1&key=69cadbdd2&version=b6dc583b&size=480,480&download=medium"
@@ -5895,9 +5049,7 @@
     "primer": "This exercise uses gravity to increase the resistance of the weight.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=929&number=0&key=69cadbdd2&version=d8f261d5&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=929&number=1&key=69cadbdd2&version=4ea54e9a&size=480,480&download=medium"
@@ -5924,9 +5076,7 @@
     "primer": "This is an advanced Triceps exercise and should be avoided by beginners.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=930&number=0&key=69cadbdd2&version=a60615d4&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=930&number=1&key=69cadbdd2&version=90edb414&size=480,480&download=medium"
@@ -5955,12 +5105,8 @@
     "primer": "This is another classic exercise for building the triceps.",
     "type": "isolation",
     "primary": "triceps",
-    "secondary": [
-      "chest"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["chest"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=931&number=0&key=69cadbdd2&version=765f3fa4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=931&number=1&key=69cadbdd2&version=81da7dac&size=960,960&download=large"
@@ -5988,9 +5134,7 @@
     "primer": "This a lying version of a Triceps Kickback.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=932&number=0&key=69cadbdd2&version=6069c894&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=932&number=1&key=69cadbdd2&version=44123e4c&size=960,960&download=large"
@@ -6016,9 +5160,7 @@
     "primer": "As the name suggests, this is an old classic exercise that hits the triceps hard.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=933&number=0&key=69cadbdd2&version=48835017&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=933&number=1&key=69cadbdd2&version=6496ee20&size=480,480&download=medium"
@@ -6044,9 +5186,7 @@
     "primer": "This is an advanced exercise to isolate and work the tricep muscles.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=935&number=0&key=69cadbdd2&version=72f650fb&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=935&number=1&key=69cadbdd2&version=59296f5d&size=480,480&download=medium"
@@ -6075,9 +5215,7 @@
     "primer": "This exercise is similar to the Single Arm Pronated Triceps Extension except the movement is over the head instead of across the chest.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=936&number=0&key=69cadbdd2&version=f61a80b0&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=936&number=1&key=69cadbdd2&version=5b3d30d1&size=480,480&download=medium"
@@ -6104,12 +5242,8 @@
     "primer": "This version of the Pushup isolates the tricep muscles.",
     "type": "compound",
     "primary": "triceps",
-    "secondary": [
-      "chest"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["chest"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=937&number=0&key=69cadbdd2&version=38bf1277&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=937&number=1&key=69cadbdd2&version=6b230ea8&size=480,480&download=medium"
@@ -6136,9 +5270,7 @@
     "primer": "This exercise is the reverse version of the triceps pushdown.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=938&number=0&key=69cadbdd2&version=7e5a24df&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=938&number=1&key=69cadbdd2&version=368df4ed&size=960,960&download=large"
@@ -6165,12 +5297,8 @@
     "primer": "This exercise is a version of the Bench Press that specifically isolates the triceps.",
     "type": "compound",
     "primary": "triceps",
-    "secondary": [
-      "chest"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["chest"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=939&number=0&key=69cadbdd2&version=2dad8660&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=939&number=1&key=69cadbdd2&version=73bf8c51&size=960,960&download=large"
@@ -6196,9 +5324,7 @@
     "primer": "This exercise uses a kickback movement to work the triceps in each arm individually.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=940&number=0&key=69cadbdd2&version=0ab36b9c&size=480,480&download=medium",
       "http://img.everkinetic.com/?action=image&id=940&number=1&key=69cadbdd2&version=32822fa6&size=480,480&download=medium"
@@ -6225,9 +5351,7 @@
     "primer": "This exercise is the two handed version of seated triceps extension.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=941&number=0&key=69cadbdd2&version=ab487960&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=941&number=1&key=69cadbdd2&version=244e8410&size=960,960&download=large"
@@ -6251,9 +5375,7 @@
     "primer": "This exercise uses a barbell behind your neck to isolate the triceps effectively.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=942&number=0&key=69cadbdd2&version=1bfa6a78&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=942&number=1&key=69cadbdd2&version=c025f219&size=960,960&download=large"
@@ -6279,9 +5401,7 @@
     "primer": "This exercise uses a single dumbbell held between both hands to work the triceps.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=943&number=0&key=69cadbdd2&version=8191208d&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=943&number=1&key=69cadbdd2&version=990c7b51&size=960,960&download=large"
@@ -6308,12 +5428,8 @@
     "primer": "This version of a Bench Press uses a close grip to isolate the triceps as well as working the chest.",
     "type": "compound",
     "primary": "triceps",
-    "secondary": [
-      "chest"
-    ],
-    "equipment": [
-      "smith machine"
-    ],
+    "secondary": ["chest"],
+    "equipment": ["smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=944&number=0&key=69cadbdd2&version=6c0f7e38&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=944&number=1&key=69cadbdd2&version=bb7ac91a&size=960,960&download=large"
@@ -6335,9 +5451,7 @@
     "primer": "This exercise uses a kickback movement to work the triceps in each arm individually.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=945&number=0&key=69cadbdd2&version=2046d423&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=945&number=1&key=69cadbdd2&version=f36ae481&size=960,960&download=large"
@@ -6360,9 +5474,7 @@
     "primer": "This exercise uses a kickback movement to work the triceps in each arm individually.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=946&number=0&key=69cadbdd2&version=4a3fb48e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=946&number=1&key=69cadbdd2&version=7d49d212&size=960,960&download=large"
@@ -6385,9 +5497,7 @@
     "primer": "This exercise works the triceps by reaching behind your neck.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=947&number=0&key=69cadbdd2&version=190ecca8&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=947&number=1&key=69cadbdd2&version=2231442a&size=960,960&download=large"
@@ -6414,9 +5524,7 @@
     "primer": "This exercise uses a cable machine to isolate the triceps.",
     "type": "compound",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=948&number=0&key=69cadbdd2&version=9e0a8599&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=948&number=1&key=69cadbdd2&version=d05653d9&size=960,960&download=large"
@@ -6444,9 +5552,7 @@
     "primer": "This is a single arm version of a behind the neck triceps exercise.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbell"
-    ],
+    "equipment": ["dumbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=949&number=0&key=69cadbdd2&version=6a74b2b9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=949&number=1&key=69cadbdd2&version=2f84eb89&size=960,960&download=large"
@@ -6474,9 +5580,7 @@
     "primer": "This is a double arm barbell version of a behind the neck triceps exercise.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=950&number=0&key=69cadbdd2&version=d3754236&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=950&number=1&key=69cadbdd2&version=608528c5&size=960,960&download=large"
@@ -6503,9 +5607,7 @@
     "primer": "This exercise requires another person and uses manual resistance, or your body’s own weight to build muscle.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=951&number=0&key=69cadbdd2&version=3b9d73e9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=951&number=1&key=69cadbdd2&version=d17fae90&size=960,960&download=large"
@@ -6529,9 +5631,7 @@
     "primer": "This is an advanced triceps exercise which moves the muscle differently than other exercises.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=952&number=0&key=69cadbdd2&version=46508215&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=952&number=1&key=69cadbdd2&version=db100b0b&size=960,960&download=large"
@@ -6554,9 +5654,7 @@
     "primer": "This along with the Triceps Push Down is one of the most beneficial exercises for the arms.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=953&number=0&key=69cadbdd2&version=39e1f0da&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=953&number=1&key=69cadbdd2&version=0ebc41f0&size=960,960&download=large"
@@ -6581,9 +5679,7 @@
     "primer": "This exercise is the original version of the triceps pushdown.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=954&number=0&key=69cadbdd2&version=ad936f26&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=954&number=1&key=69cadbdd2&version=94a828f2&size=960,960&download=large"
@@ -6611,9 +5707,7 @@
     "primer": "This version of the triceps pushdown uses a rope for better definition in the muscle.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=955&number=0&key=69cadbdd2&version=ff20bf3e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=955&number=1&key=69cadbdd2&version=1b30856b&size=960,960&download=large"
@@ -6641,10 +5735,7 @@
     "primer": "This exercise is the triceps pushdown uses a V shaped bar.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "cable",
-      "v-bar"
-    ],
+    "equipment": ["cable", "v-bar"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=956&number=0&key=69cadbdd2&version=cd32ac87&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=956&number=1&key=69cadbdd2&version=351e69d5&size=960,960&download=large"
@@ -6674,10 +5765,7 @@
     "primer": "This exercise use a Stability Ball instead of a bench to work the obliques.",
     "type": "isolation",
     "primary": "obliques",
-    "equipment": [
-      "weight",
-      "exercise ball"
-    ],
+    "equipment": ["weight", "exercise ball"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=957&number=0&key=69cadbdd2&version=682cdab2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=957&number=1&key=69cadbdd2&version=90474114&size=960,960&download=large"
@@ -6702,12 +5790,8 @@
     "primer": "This version of the triceps extension uses an incline bench.",
     "type": "isolation",
     "primary": "triceps",
-    "secondary": [
-      "shoulders"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["shoulders"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=958&number=0&key=69cadbdd2&version=d4a676e3&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=958&number=1&key=69cadbdd2&version=c50cd67d&size=960,960&download=large"
@@ -6733,9 +5817,7 @@
     "primer": "This exercise uses a machine to insure proper range of motion for tricep extensions.",
     "type": "isolation",
     "primary": "triceps",
-    "equipment": [
-      "machine"
-    ],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=960&number=0&key=69cadbdd2&version=185790b2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=960&number=1&key=69cadbdd2&version=35948a5f&size=960,960&download=large"
@@ -6760,13 +5842,8 @@
     "primer": "This is a basic exercise for the biceps.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "shoulders",
-      "forearm"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["shoulders", "forearm"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=961&number=0&key=69cadbdd2&version=8955cc09&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=961&number=1&key=69cadbdd2&version=bc0261c4&size=960,960&download=large"
@@ -6794,13 +5871,8 @@
     "primer": "This version of the biceps curl uses a cable instead of a barbell to work the muscles of the arms.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm",
-      "shoulders"
-    ],
-    "equipment": [
-      "cable"
-    ],
+    "secondary": ["forearm", "shoulders"],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=962&number=0&key=69cadbdd2&version=b17f5293&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=962&number=1&key=69cadbdd2&version=ceb653e1&size=960,960&download=large"
@@ -6828,12 +5900,8 @@
     "primer": "This exercise uses a hammering motion to isolate the biceps.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=963&number=0&key=69cadbdd2&version=9c7997c4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=963&number=1&key=69cadbdd2&version=5041e10e&size=960,960&download=large"
@@ -6862,9 +5930,7 @@
     "primer": "This exercise uses an incline bench to change your body’s position as you perform Biceps Curls.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=964&number=0&key=69cadbdd2&version=b3ec9770&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=964&number=1&key=69cadbdd2&version=aff512f5&size=960,960&download=large"
@@ -6888,9 +5954,7 @@
     "primer": "",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=965&number=0&key=69cadbdd2&version=d5d0ab69&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=965&number=1&key=69cadbdd2&version=5b06f6b9&size=960,960&download=large"
@@ -6916,9 +5980,7 @@
     "primer": "Using the rope with the cable machine allows you isolate the biceps with this version of the Hammer Curl.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=966&number=0&key=69cadbdd2&version=ac476007&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=966&number=1&key=69cadbdd2&version=a50d5916&size=960,960&download=large"
@@ -6943,12 +6005,8 @@
     "primer": "A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "cable"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=967&number=0&key=69cadbdd2&version=cbf36900&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=967&number=1&key=69cadbdd2&version=be059b83&size=960,960&download=large"
@@ -6976,12 +6034,8 @@
     "primer": "This exercise uses a cambered EZ or curl bar to isolate the biceps during a curl.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=968&number=0&key=69cadbdd2&version=a2c57357&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=968&number=1&key=69cadbdd2&version=eb6b306c&size=960,960&download=large"
@@ -7009,12 +6063,8 @@
     "primer": "This exercise uses a standard barbell to isolate the biceps during a curl.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=969&number=0&key=69cadbdd2&version=0408c5aa&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=969&number=1&key=69cadbdd2&version=9da3c757&size=960,960&download=large"
@@ -7042,12 +6092,8 @@
     "primer": "Concentration exercises limit your range of movement to increase the effectiveness of the movement.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=970&number=0&key=69cadbdd2&version=e26437a0&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=970&number=1&key=69cadbdd2&version=13d9e36b&size=960,960&download=large"
@@ -7072,12 +6118,8 @@
     "primer": "This exercise targets the biceps using a crossing motion rather than a standard curl.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=971&number=0&key=69cadbdd2&version=4c26db12&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=971&number=1&key=69cadbdd2&version=47f45058&size=960,960&download=large"
@@ -7103,12 +6145,8 @@
     "primer": "This exercise works the biceps and forearms.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=972&number=0&key=69cadbdd2&version=58106a10&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=972&number=1&key=69cadbdd2&version=26637b3e&size=960,960&download=large"
@@ -7136,12 +6174,8 @@
     "primer": "This exercise is a single arm version of a biceps curl.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=973&number=0&key=69cadbdd2&version=2a578883&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=973&number=1&key=69cadbdd2&version=f274f55f&size=960,960&download=large"
@@ -7170,12 +6204,8 @@
     "primer": "This version of a biceps curl uses both arms at the same time.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=974&number=0&key=69cadbdd2&version=a3994956&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=974&number=1&key=69cadbdd2&version=5d69586e&size=960,960&download=large"
@@ -7203,9 +6233,7 @@
     "primer": "This exercise uses an incline bench to change your body’s position as you perform Biceps Curls.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=975&number=0&key=69cadbdd2&version=38d5e236&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=975&number=1&key=69cadbdd2&version=e492e9b6&size=960,960&download=large"
@@ -7231,12 +6259,8 @@
     "primer": "This exercise uses an EZ or curl bar to better isolate and build the arms.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=976&number=0&key=69cadbdd2&version=0045b042&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=976&number=1&key=69cadbdd2&version=aa68f931&size=960,960&download=large"
@@ -7263,9 +6287,7 @@
     "primer": "This exercise uses a hammering motion to isolate the biceps.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=977&number=0&key=69cadbdd2&version=7f8ac9dd&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=977&number=1&key=69cadbdd2&version=222f7e3b&size=960,960&download=large"
@@ -7294,9 +6316,7 @@
     "primer": "This exercise was designed to keep the stress on the biceps.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=978&number=0&key=69cadbdd2&version=d158411f&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=978&number=1&key=69cadbdd2&version=2276c95e&size=960,960&download=large"
@@ -7319,12 +6339,8 @@
     "primer": "This exercise allows you to target the muscles of your arms from a different position.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "triceps"
-    ],
-    "equipment": [
-      "cable"
-    ],
+    "secondary": ["triceps"],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=979&number=0&key=69cadbdd2&version=4ad40b7e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=979&number=1&key=69cadbdd2&version=408df29b&size=960,960&download=large"
@@ -7352,9 +6368,7 @@
     "primer": "This exercise uses an incline bench to change your body’s position as you perform Biceps Curls.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=980&number=0&key=69cadbdd2&version=573cbe45&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=980&number=1&key=69cadbdd2&version=268f7174&size=960,960&download=large"
@@ -7380,9 +6394,7 @@
     "primer": "This exercise uses an incline bench and twist to more to change your body’s position as you perform Biceps Curls.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=981&number=0&key=69cadbdd2&version=c174215a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=981&number=1&key=69cadbdd2&version=ee8c90b0&size=960,960&download=large"
@@ -7408,12 +6420,8 @@
     "primer": "By lying down you are able to isolate the muscles of your biceps without standing or sitting.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "cable"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=982&number=0&key=69cadbdd2&version=610c94c1&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=982&number=1&key=69cadbdd2&version=9f223984&size=960,960&download=large"
@@ -7437,9 +6445,7 @@
     "primer": "This exercise combines a flat body position with a pulling motion to work the biceps.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=983&number=0&key=69cadbdd2&version=9f69f4d9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=983&number=1&key=69cadbdd2&version=23d40213&size=960,960&download=large"
@@ -7466,9 +6472,7 @@
     "primer": "",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=984&number=0&key=69cadbdd2&version=95f79c5e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=984&number=1&key=69cadbdd2&version=b8d3274d&size=960,960&download=large"
@@ -7495,9 +6499,7 @@
     "primer": "This is an advanced biceps exercise where you lay down to isolate the muscles you are working.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=985&number=0&key=69cadbdd2&version=4655c4f2&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=985&number=1&key=69cadbdd2&version=0b592c78&size=960,960&download=large"
@@ -7523,12 +6525,8 @@
     "primer": "A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "machine"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=986&number=0&key=69cadbdd2&version=3d40ab1e&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=986&number=1&key=69cadbdd2&version=720ea891&size=960,960&download=large"
@@ -7553,12 +6551,8 @@
     "primer": "",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=987&number=0&key=69cadbdd2&version=76cd3a2a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=987&number=1&key=69cadbdd2&version=b7410066&size=960,960&download=large"
@@ -7588,9 +6582,7 @@
     "primer": "By using cable, this exercise isolates and defines the biceps muscles.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=988&number=0&key=69cadbdd2&version=b8d3875c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=988&number=1&key=69cadbdd2&version=e165acb2&size=960,960&download=large"
@@ -7619,12 +6611,8 @@
     "primer": "A Preacher Curl uses a special bench to support the triceps and isolate the biceps to build the arms.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=989&number=0&key=69cadbdd2&version=f08a6e72&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=989&number=1&key=69cadbdd2&version=31ba0e9e&size=960,960&download=large"
@@ -7653,9 +6641,7 @@
     "primer": "This exercise combines a Hammer Curl with a Preacher bench.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=990&number=0&key=69cadbdd2&version=562be795&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=990&number=1&key=69cadbdd2&version=11c62b88&size=960,960&download=large"
@@ -7682,12 +6668,8 @@
     "primer": "This exercise uses a free weight plate to build muscle.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "weight plate"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["weight plate"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=991&number=0&key=69cadbdd2&version=76b73e10&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=991&number=1&key=69cadbdd2&version=065e8044&size=960,960&download=large"
@@ -7710,9 +6692,7 @@
     "primer": "Concentration exercises limit your range of movement to increase the effectiveness of the movement.",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=992&number=0&key=69cadbdd2&version=1362f4bf&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=992&number=1&key=69cadbdd2&version=0878d07a&size=960,960&download=large"
@@ -7738,12 +6718,8 @@
     "primer": "This exercise is a seated biceps curl using dumbbells.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=993&number=0&key=69cadbdd2&version=c355db5f&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=993&number=1&key=69cadbdd2&version=c7bf6f97&size=960,960&download=large"
@@ -7770,12 +6746,8 @@
     "primer": "This exercise works the inner biceps.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=994&number=0&key=69cadbdd2&version=5872c620&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=994&number=1&key=69cadbdd2&version=289f704e&size=960,960&download=large"
@@ -7802,9 +6774,7 @@
     "primer": "",
     "type": "isolation",
     "primary": "biceps",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=995&number=0&key=69cadbdd2&version=b3499025&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=995&number=1&key=69cadbdd2&version=72ab7583&size=960,960&download=large"
@@ -7833,12 +6803,8 @@
     "primer": "This exercise works the inner biceps.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=996&number=0&key=69cadbdd2&version=503e3d5c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=996&number=1&key=69cadbdd2&version=f1b6100e&size=960,960&download=large"
@@ -7865,12 +6831,8 @@
     "primer": "This is a single arm version of a bicep cable curl.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "cable"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=997&number=0&key=69cadbdd2&version=26f1aa24&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=997&number=1&key=69cadbdd2&version=0cad97e8&size=960,960&download=large"
@@ -7899,12 +6861,8 @@
     "primer": "",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=998&number=0&key=69cadbdd2&version=e9b52675&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=998&number=1&key=69cadbdd2&version=46d99e5f&size=960,960&download=large"
@@ -7934,12 +6892,8 @@
     "primer": "This version of a Preacher Curl uses a special bench and dumbbells.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=999&number=0&key=69cadbdd2&version=c69dd6b6&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=999&number=1&key=69cadbdd2&version=c3ec5ce3&size=960,960&download=large"
@@ -7968,12 +6922,8 @@
     "primer": "This is a wide grip version of a biceps curl.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1000&number=0&key=69cadbdd2&version=dc9de7e8&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1000&number=1&key=69cadbdd2&version=7291719b&size=960,960&download=large"
@@ -8002,12 +6952,8 @@
     "primer": "This is an advanced exercise where you turn the dumbbells up and out.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1001&number=0&key=69cadbdd2&version=cfce884f&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1001&number=1&key=69cadbdd2&version=57a84201&size=960,960&download=large"
@@ -8034,12 +6980,8 @@
     "primer": "This is an advanced exercise where you turn the dumbbells up and out using a Preacher Curl bench for support.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1002&number=0&key=69cadbdd2&version=70134313&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1002&number=1&key=69cadbdd2&version=7a6be607&size=960,960&download=large"
@@ -8066,9 +7008,7 @@
     "primer": "This exercise uses a machine to insure proper form.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
+    "secondary": ["forearm"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1004&number=0&key=69cadbdd2&version=8895f3f4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1004&number=1&key=69cadbdd2&version=3f49ca2c&size=960,960&download=large"
@@ -8094,12 +7034,8 @@
     "primer": "This is an advanced exercise for building stability and the muscles of the arms.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1005&number=0&key=69cadbdd2&version=3d9aa0e1&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1005&number=1&key=69cadbdd2&version=f0845821&size=960,960&download=large"
@@ -8127,12 +7063,8 @@
     "primer": "This version of a biceps curl uses a Stability Ball.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1006&number=0&key=69cadbdd2&version=0ea7b7cc&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1006&number=1&key=69cadbdd2&version=b08cbea2&size=960,960&download=large"
@@ -8159,13 +7091,8 @@
     "primer": "This exercise combines a squat with a curl to effectively work the entire body.",
     "type": "isolation, compound",
     "primary": "biceps",
-    "secondary": [
-      "hamstrings",
-      "glutes"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["hamstrings", "glutes"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1007&number=0&key=69cadbdd2&version=df38775c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1007&number=1&key=69cadbdd2&version=d4aa5668&size=960,960&download=large"
@@ -8190,12 +7117,8 @@
     "primer": "This is a reverse curl exercise that works all of the muscles of the arms.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1008&number=0&key=69cadbdd2&version=f186fadb&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1008&number=1&key=69cadbdd2&version=14c11b68&size=960,960&download=large"
@@ -8221,12 +7144,8 @@
     "primer": "This exercise uses a Stability Ball instead of a bench for better form.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "forearm"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1009&number=0&key=69cadbdd2&version=fd7779e4&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1009&number=1&key=69cadbdd2&version=0893799d&size=960,960&download=large"
@@ -8251,14 +7170,8 @@
     "primer": "This exercise combines a bicep curl with a deadlift.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "calves",
-      "lower back",
-      "hamstrings"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["calves", "lower back", "hamstrings"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1010&number=0&key=69cadbdd2&version=e77dae9d&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1010&number=1&key=69cadbdd2&version=83dd87b2&size=960,960&download=large"
@@ -8285,13 +7198,8 @@
     "primer": "This exercise requires you to be able to balance kneeling on a stability ball before you can correctly perform this exercise",
     "type": "isolation",
     "primary": "triceps, biceps",
-    "secondary": [
-      "forearm",
-      "should"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm", "shoulder"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1011&number=0&key=69cadbdd2&version=86314383&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1011&number=1&key=69cadbdd2&version=8dcaeaba&size=960,960&download=large"
@@ -8320,12 +7228,8 @@
     "primer": "This exercise uses a bungy or exercise band for resistance.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "triceps"
-    ],
-    "equipment": [
-      "band"
-    ],
+    "secondary": ["triceps"],
+    "equipment": ["band"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1012&number=0&key=69cadbdd2&version=d18b53e1&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1012&number=1&key=69cadbdd2&version=28797f93&size=960,960&download=large"
@@ -8351,16 +7255,8 @@
     "url": "http://db.everkinetic.com/exercise/biceps-curl-lunge-with-bowling-motion",
     "primer": "This exercise is similar to the motions of bowling.",
     "primary": "arms",
-    "secondary": [
-      "calves",
-      "triceps",
-      "hamstrings",
-      "glutes",
-      "quadriceps"
-    ],
-    "equipment": [
-      "medicine ball"
-    ],
+    "secondary": ["calves", "triceps", "hamstrings", "glutes", "quadriceps"],
+    "equipment": ["medicine ball"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1013&number=0&key=69cadbdd2&version=bcb2a17c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1013&number=1&key=69cadbdd2&version=502abd1d&size=960,960&download=large"
@@ -8387,15 +7283,8 @@
     "primer": "This exercise incorporates balance along with a bicep curl.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "hamstring",
-      "forearm",
-      "quadriceps",
-      "calves"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["hamstring", "forearm", "quadriceps", "calves"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1014&number=0&key=69cadbdd2&version=b5556604&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1014&number=1&key=69cadbdd2&version=c83af66f&size=960,960&download=large"
@@ -8423,16 +7312,8 @@
     "primer": "This is an advanced exercise that combines a lateral lunge with a bicep curl.",
     "type": "compound, isolation",
     "primary": "quadriceps, biceps",
-    "secondary": [
-      "forearm",
-      "hamstrings",
-      "glutes",
-      "calves",
-      "hip abductors"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["forearm", "hamstrings", "glutes", "calves", "hip abductors"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1016&number=0&key=69cadbdd2&version=a91423bf&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1016&number=1&key=69cadbdd2&version=247d7bba&size=960,960&download=large"
@@ -8458,16 +7339,8 @@
     "primer": "This exercise combines a forward lunge with a bicep curl.",
     "type": "compound, isolation",
     "primary": "biceps",
-    "secondary": [
-      "calves",
-      "hip abductors",
-      "forearm",
-      "hamstrings",
-      "glutes"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["calves", "hip abductors", "forearm", "hamstrings", "glutes"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1017&number=0&key=69cadbdd2&version=72fc4fe0&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1017&number=1&key=69cadbdd2&version=5323ce92&size=960,960&download=large",
@@ -8507,9 +7380,7 @@
       "glutes",
       "calves"
     ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1018&number=0&key=69cadbdd2&version=f934671c&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1018&number=1&key=69cadbdd2&version=a18f6169&size=960,960&download=large",
@@ -8540,13 +7411,8 @@
     "primer": "This exercise combines a new technology, Stability Ball, with a old piece of fitness equipment, the Medicine Ball.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "core",
-      "forearm"
-    ],
-    "equipment": [
-      "medicine ball"
-    ],
+    "secondary": ["core", "forearm"],
+    "equipment": ["medicine ball"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1019&number=0&key=69cadbdd2&version=851db983&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1019&number=1&key=69cadbdd2&version=ab61fc13&size=960,960&download=large"
@@ -8570,16 +7436,8 @@
     "primer": "This is an advanced exercise that requires excellent coordination and balance.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "quadriceps",
-      "hamstrings",
-      "glutes",
-      "calves",
-      "triceps"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["quadriceps", "hamstrings", "glutes", "calves", "triceps"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1020&number=0&key=69cadbdd2&version=b5e85d39&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1020&number=1&key=69cadbdd2&version=55a53a7d&size=960,960&download=large"
@@ -8606,13 +7464,8 @@
     "primer": "This exercise uses a Dome (or Bosu) as a seat forcing you to engage and contract your abs throughout the exercise.",
     "type": "isolation",
     "primary": "biceps",
-    "secondary": [
-      "abdominals",
-      "core"
-    ],
-    "equipment": [
-      "dumbbell"
-    ],
+    "secondary": ["abdominals", "core"],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1021&number=0&key=69cadbdd2&version=a223fe2a&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1021&number=1&key=69cadbdd2&version=19105cef&size=960,960&download=large"
@@ -8638,9 +7491,7 @@
     "primer": "This is the most simple of all exercises for the calves.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1022&number=0&key=69cadbdd2&version=adc204e8&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1022&number=1&key=69cadbdd2&version=65c01a2f&size=960,960&download=large"
@@ -8662,13 +7513,8 @@
     "primer": "Your calves are stabilizing muscles for your legs, so this exercises uses a Balance Board or wobble board to force you to balance.",
     "type": "compound",
     "primary": "calves",
-    "secondary": [
-      "quadriceps",
-      "hamstring"
-    ],
-    "equipment": [
-      "balance board"
-    ],
+    "secondary": ["quadriceps", "hamstring"],
+    "equipment": ["balance board"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1023&number=0&key=69cadbdd2&version=60c46ee7&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1023&number=1&key=69cadbdd2&version=13ab3163&size=960,960&download=large"
@@ -8693,9 +7539,7 @@
     "primer": "This version of a calves raise uses a block and a barbell.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1024&number=0&key=69cadbdd2&version=88bcca69&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1024&number=1&key=69cadbdd2&version=a5a6e074&size=960,960&download=large"
@@ -8720,9 +7564,7 @@
     "primer": "This exercise uses a Leg Press Machine to work your calves.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "machine"
-    ],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1025&number=0&key=69cadbdd2&version=cdc3f563&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1025&number=1&key=69cadbdd2&version=bca75d64&size=960,960&download=large"
@@ -8750,9 +7592,7 @@
     "primer": "",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "bands"
-    ],
+    "equipment": ["bands"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1026&number=0&key=69cadbdd2&version=ae5df180&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1026&number=1&key=69cadbdd2&version=4d55f2f5&size=960,960&download=large"
@@ -8776,9 +7616,7 @@
     "primer": "This is an old school gym exercise which requires the assistance of another person.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1027&number=0&key=69cadbdd2&version=e3a82a94&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1027&number=1&key=69cadbdd2&version=3eef42bb&size=960,960&download=large"
@@ -8806,9 +7644,7 @@
     "primer": "This version of a calf raise allows you to exercise each leg individually.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1028&number=0&key=69cadbdd2&version=8b66dfb9&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1028&number=1&key=69cadbdd2&version=8c042ecb&size=960,960&download=large"
@@ -8832,12 +7668,8 @@
     "primer": "This is a simple exercise and a great stretch.",
     "type": "compound",
     "primary": "calves",
-    "secondary": [
-      "hamstrings"
-    ],
-    "equipment": [
-      "body"
-    ],
+    "secondary": ["hamstrings"],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1029&number=0&key=69cadbdd2&version=9b924f74&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1029&number=1&key=69cadbdd2&version=4f047b70&size=960,960&download=large"
@@ -8859,9 +7691,7 @@
     "primer": "This exercise uses a simple rocking motion to strengthen the calves.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1030&number=0&key=69cadbdd2&version=981e6e92&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1030&number=1&key=69cadbdd2&version=7c8fc4d8&size=960,960&download=large"
@@ -8888,9 +7718,7 @@
     "primer": "This is one of the simplest and most effective exercises for the calves.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "machine"
-    ],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1031&number=0&key=69cadbdd2&version=2aa385e5&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1031&number=1&key=69cadbdd2&version=80bdd937&size=960,960&download=large"
@@ -8915,9 +7743,7 @@
     "primer": "This is a unique exercise that works the tibialis anterior muscle, one of the muscles of the calves.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "smith machine"
-    ],
+    "equipment": ["smith machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1032&number=0&key=69cadbdd2&version=a4fdef89&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1032&number=1&key=69cadbdd2&version=e03e5ba8&size=960,960&download=large"
@@ -8944,9 +7770,7 @@
     "primer": "This is standing version of a Calf Raise.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "barbell"
-    ],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1033&number=0&key=69cadbdd2&version=158b34d0&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1033&number=1&key=69cadbdd2&version=387bf7fb&size=960,960&download=large"
@@ -8972,9 +7796,7 @@
     "primer": "This exercise uses a machine to allow for proper form.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "machine"
-    ],
+    "equipment": ["machine"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1034&number=0&key=69cadbdd2&version=aa6ce9ab&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1034&number=1&key=69cadbdd2&version=4eae50d3&size=960,960&download=large"
@@ -9000,9 +7822,7 @@
     "primer": "This version of a Calf Raise uses dumbbells.",
     "type": "isolation",
     "primary": "calves",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [],
     "steps": [
       "Place a block or two free weight plates on the floor.",
@@ -9022,17 +7842,12 @@
     "primer": "This exercise works your abs by raising your arms to meet your legs.",
     "type": "compound",
     "primary": "abdominals",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1036&number=0&key=69cadbdd2&version=4429de96&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1036&number=1&key=69cadbdd2&version=cb5d6de4&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/air-bike-1.png",
-      "_images/web/air-bike-2.png"
-    ],
+    "img": ["_images/web/air-bike-1.png", "_images/web/air-bike-2.png"],
     "steps": [
       "This exercise works your abs by raising your arms to meet your legs. The movements are similar to riding a bike.",
       "Lie on your back on a mat.",
@@ -9054,13 +7869,8 @@
     "primer": "This exercise works the abs and lower back and is the proper version of an “ab roller”.",
     "type": "compound",
     "primary": "abdominals",
-    "secondary": [
-      "lower back",
-      "shoulders"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["lower back", "shoulders"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1037&number=0&key=69cadbdd2&version=720996cf&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1037&number=1&key=69cadbdd2&version=3f7c67fa&size=960,960&download=large"
@@ -9085,13 +7895,8 @@
     "primer": "This exercise works the abs and lower back and is the proper version of an “ab roller”.",
     "type": "compound",
     "primary": "abdominals",
-    "secondary": [
-      "lower back",
-      "shoulders"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["lower back", "shoulders"],
+    "equipment": ["barbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1038&number=0&key=69cadbdd2&version=5a6007cf&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1038&number=1&key=69cadbdd2&version=29d6f164&size=960,960&download=large"
@@ -9119,9 +7924,7 @@
     "primer": "This is a good exercise core muscle development.",
     "type": "compound",
     "primary": "abdominals",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1039&number=0&key=69cadbdd2&version=bd2594a5&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1039&number=1&key=69cadbdd2&version=0e338a37&size=960,960&download=large"
@@ -9147,9 +7950,7 @@
     "primer": "This exercise uses the weight of a cable machine to assist in a crunch.",
     "type": "isolation",
     "primary": "abdominals",
-    "equipment": [
-      "cable"
-    ],
+    "equipment": ["cable"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1040&number=0&key=69cadbdd2&version=570ccea3&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1040&number=1&key=69cadbdd2&version=36cc6939&size=960,960&download=large"
@@ -9177,9 +7978,7 @@
     "primer": "This version of the crunch works both the upper and lower portion of the abs.",
     "type": "compound",
     "primary": "abdominals",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1041&number=0&key=69cadbdd2&version=d50a3b17&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1041&number=1&key=69cadbdd2&version=97b07ed7&size=960,960&download=large"
@@ -9203,9 +8002,7 @@
     "primer": "This exercise uses a Stability Ball as the base during your crunches.",
     "type": "isolation",
     "primary": "abdominals",
-    "equipment": [
-      "stability ball"
-    ],
+    "equipment": ["stability ball"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1042&number=0&key=69cadbdd2&version=74257afb&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1042&number=1&key=69cadbdd2&version=189d0660&size=960,960&download=large"
@@ -9232,17 +8029,12 @@
     "primer": "",
     "type": "isolation",
     "primary": "abdominals",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1043&number=0&key=69cadbdd2&version=cce863a3&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1043&number=1&key=69cadbdd2&version=4fcf4bf1&size=960,960&download=large"
     ],
-    "img": [
-      "_images/web/crunches-1.png",
-      "_images/web/crunches-2.png"
-    ],
+    "img": ["_images/web/crunches-1.png", "_images/web/crunches-2.png"],
     "steps": [
       "This is the most common abdominal exercise and possibly the most often improperly performed. Here is how to perform it correctly.",
       "Lie on your back with your feet up on a bench and your knees bent at a 90 degree angle.",
@@ -9262,9 +8054,7 @@
     "primer": "Using a decline crunch allows you keep your legs steady and isolate all of the abdominal muscles.",
     "type": "isolation",
     "primary": "abdominals",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1044&number=0&key=69cadbdd2&version=a8486140&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1044&number=1&key=69cadbdd2&version=be323b2d&size=960,960&download=large"
@@ -9289,9 +8079,7 @@
     "primer": "This version of a decline crunch isolates the oblique muscles of the abs.",
     "type": "compound",
     "primary": "abdominals",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1045&number=0&key=69cadbdd2&version=752933cd&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1045&number=1&key=69cadbdd2&version=8ffb9c33&size=960,960&download=large"
@@ -9317,9 +8105,7 @@
     "primer": "This exercise works the obliques, the muscles on the sides of your abs.",
     "type": "isolation",
     "primary": "abdominals",
-    "equipment": [
-      "dumbbell"
-    ],
+    "equipment": ["dumbbell"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1046&number=0&key=69cadbdd2&version=7115ec95&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1046&number=1&key=69cadbdd2&version=6d539f57&size=960,960&download=large"
@@ -9346,9 +8132,7 @@
     "primer": "This crunch uses a Stability Ball.",
     "type": "isolation",
     "primary": "abdominals",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1047&number=0&key=69cadbdd2&version=d590ad9b&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1047&number=1&key=69cadbdd2&version=53dbc976&size=960,960&download=large"
@@ -9374,9 +8158,7 @@
     "primer": "This exercise uses a ball to isolate and work the lower abdominal muscles.",
     "type": "compound",
     "primary": "abdominals",
-    "equipment": [
-      "body"
-    ],
+    "equipment": ["body"],
     "images": [
       "http://img.everkinetic.com/?action=image&id=1048&number=0&key=69cadbdd2&version=96a864e1&size=960,960&download=large",
       "http://img.everkinetic.com/?action=image&id=1048&number=1&key=69cadbdd2&version=5df21a74&size=960,960&download=large"
@@ -9400,12 +8182,8 @@
     "primer": "This exercise focuses on the middle back.",
     "type": "compound",
     "primary": "middle back",
-    "secondary": [
-      "biceps"
-    ],
-    "equipment": [
-      "barbell"
-    ],
+    "secondary": ["biceps"],
+    "equipment": ["barbell"],
     "images": [],
     "steps": [
       "Place your feet shoulder width apart.",

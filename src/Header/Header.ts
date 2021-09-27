@@ -1,14 +1,7 @@
 import { FASTElement, customElement, html } from "@microsoft/fast-element";
 import styles from "./Header.scss";
 
-const template = html`
-  <a href="/">Home</a><a href="/exercises">Random non existing page</a
-  ><a
-    href="https://github.com/m4thieulavoie/webcomponents-starter"
-    target="_blank"
-    >View in GitHub</a
-  >
-`;
+const template = html` <a href="/">Home</a><a href="/exercises">Exercises</a> `;
 
 @customElement({
   name: "wcs-header",

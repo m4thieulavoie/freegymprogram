@@ -8,6 +8,7 @@ export default class RouterService {
       { path: "/", component: "wcs-home" },
       { path: "/exercises", component: "fgp-exercises" },
       { path: "/exercise/:id", component: "fgp-exercise" },
+      { path: "/dailyschedule/:muscles", component: "fgp-daily-schedule" },
       { path: "(.*)", component: "wcs-not-found" },
     ]);
   }

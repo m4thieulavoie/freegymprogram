@@ -628,6 +628,11 @@
     "@webassemblyjs/ast" "1.11.1"
     "@xtuc/long" "4.2.2"
 
+"@webcomponents/webcomponentsjs@2.6.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@webcomponents/webcomponentsjs/-/webcomponentsjs-2.6.0.tgz#7d1674c40bddf0c6dd974c44ffd34512fe7274ff"
+  integrity sha512-Moog+Smx3ORTbWwuPqoclr+uvfLnciVd6wdCaVscHPrxbmQ/IJKm3wbB7hpzJtXWjAq2l/6QMlO85aZiOdtv5Q==
+
 "@webpack-cli/configtest@^1.0.4":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@webpack-cli/configtest/-/configtest-1.0.4.tgz#f03ce6311c0883a83d04569e2c03c6238316d2aa"
@@ -846,6 +851,24 @@ autoprefixer@^9.8.6:
     num2fraction "^1.2.2"
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
+
+axe-browser-reporter@1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/axe-browser-reporter/-/axe-browser-reporter-1.0.5.tgz#62a4db5b11629151aab49e36e51b5aa789babb63"
+  integrity sha512-wo93eYGRQl/piEWsJfQrzbfcI9u3IwjrL/8Moz1dKBvQ/C/1AqN582r4EnZ/jXfsLEwqo1WSLmjS+GB36t+DoA==
+  dependencies:
+    "@microsoft/fast-components" "2.11.3"
+    "@microsoft/fast-element" "1.5.1"
+    "@microsoft/fast-foundation" "2.16.1"
+    "@vaadin/router" "1.7.4"
+    "@webcomponents/webcomponentsjs" "2.6.0"
+    axe-core "^4.1.1"
+    lodash-es "^4.0.0"
+
+axe-core@^4.1.1:
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.3.3.tgz#b55cd8e8ddf659fe89b064680e1c6a4dceab0325"
+  integrity sha512-/lqqLAmuIPi79WYfRpy2i8z+x+vxU3zX2uAm0gs1q52qTuKwolOj1P8XbufpXcsydrpKx2yGn2wzAnxCMV86QA==
 
 bail@^1.0.0:
   version "1.0.5"
@@ -2870,6 +2893,11 @@ locate-path@^5.0.0:
   integrity sha512-t7hw9pI+WvuwNJXwk5zVHpyhIqzg2qTlklJOf0mVxGSbe3Fp2VieZcduNYjaLDoy6p9uGpQEGWG87WpMKlNq8g==
   dependencies:
     p-locate "^4.1.0"
+
+lodash-es@^4.0.0:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.21.tgz#43e626c46e6591b7750beb2b50117390c609e3ee"
+  integrity sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==
 
 lodash.clonedeep@^4.5.0:
   version "4.5.0"

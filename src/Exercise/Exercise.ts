@@ -14,22 +14,35 @@ import styles from "./Exercise.scss";
 
 const template = html<ExerciseComponent>`${when(
   (x) => x.exercise,
-  html<ExerciseComponent>`<h1>
-      <a href="/exercise/${(x) => x.exercise.id}">${(x) => x.exercise.title}</a>
-    </h1>
-    <p>${(x) => x.exercise.primer}</p>
-    <p><strong>Primary muscle</strong>: ${(x) => x.exercise.primary}</p>
-    <p>
-      <strong>Secondary muscles</strong>:
-      ${repeat((x) => x.exercise.secondary, html`${(x) => x}`)}
-    </p>
-    ${(x) => x.renderSelectedImage()}
-    <details>
-      <summary>Steps</summary>
-      <ul>
-        ${repeat((x) => x.exercise.steps, html`${(x) => html`<li>${x}</li>`}`)}
-      </ul>
-    </details> `
+  html<ExerciseComponent>`<header>
+      <h1>
+        <a href="/exercise/${(x) => x.exercise.id}"
+          >${(x) => x.exercise.title}</a
+        >
+        <input type="checkbox" @change=${(x) => (x.isVisible = !x.isVisible)} />
+      </h1>
+    </header>
+    ${when(
+      (x) => x.isVisible,
+      html`<section>
+        <p>${(x) => x.exercise.primer}</p>
+        <p><strong>Primary muscle</strong>: ${(x) => x.exercise.primary}</p>
+        <p>
+          <strong>Secondary muscles</strong>:
+          ${repeat((x) => x.exercise.secondary, html`${(x) => x},`)}
+        </p>
+        ${(x) => x.renderSelectedImage()}
+        <details>
+          <summary>Steps</summary>
+          <ul>
+            ${repeat(
+              (x) => x.exercise.steps,
+              html`${(x) => html`<li>${x}</li>`}`
+            )}
+          </ul>
+        </details>
+      </section>`
+    )}`
 )}`;
 
 @customElement({
@@ -41,6 +54,7 @@ export default class ExerciseComponent extends FASTElement {
   @attr() exerciseid: number;
   @observable exercise: Exercise;
   @observable selectedImageId = 0;
+  @observable isVisible = true;
 
   exerciseidChanged(_oldValue: string, newValue: string) {
     this.exercise = ExerciseService.getExerciseFromId(Number(newValue));
@@ -52,10 +66,15 @@ export default class ExerciseComponent extends FASTElement {
     }
 
     const selectedImg = this.exercise.img[this.selectedImageId];
+    if (!selectedImg) {
+      return;
+    }
+
     return html`<span
         >${this.selectedImageId + 1} of ${this.exercise.img.length}</span
       ><img
         @click=${() => this.augmentSelectedImageId()}
+        alt="${this.exercise.title}"
         src="${selectedImg.replace("_images/web", "/images-web")}"
       />`;
   }

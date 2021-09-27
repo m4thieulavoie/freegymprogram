@@ -28,6 +28,9 @@ module.exports = () => ({
   },
   resolve: {
     extensions: [".ts", ".js"],
+    fallback: {
+      crypto: false,
+    },
   },
   output: {
     filename: "index.js",

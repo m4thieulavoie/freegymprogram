@@ -11,7 +11,7 @@ export default interface Exercise {
   readonly name: string;
   readonly primary: string;
   readonly primer: string;
-  readonly secondary: ReadonlyArray<string>;
+  readonly secondary?: ReadonlyArray<string>;
   readonly steps: ReadonlyArray<string>;
   readonly title: string;
   readonly type: string;
