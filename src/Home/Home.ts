@@ -20,7 +20,9 @@ const template = html<HomeComponent>`<h1>Let's get this done!</h1>
   </select>
   <button @click=${(x) => x.generateProgram()}>Go</button>
   <h1>Presets</h1>
-  <a href="/dailyschedule/chest=3&triceps=3">Chest triceps</a>`;
+  <a href="/dailyschedule/chest=3&triceps=3">Chest triceps</a>
+  <a href="/dailyschedule/back=3&biceps=3">Back biceps</a>
+  <a href="/dailyschedule/legs=5">Leg day</a>`;
 
 @customElement({
   name: "wcs-home",

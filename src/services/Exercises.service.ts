@@ -10,7 +10,7 @@ export default class ExerciseService {
     return this.getExercises().find(({ id }) => id === exerciseId);
   }
 
-  static getExercisesFromMuscle(muscle: string, amount: number) {
+  static getExercisesFromMuscle(muscle: string, amount?: number) {
     let exercisesForMuscle = this.getExercises().filter(
       (exercise) => exercise.primary === muscle
     );
@@ -24,6 +24,6 @@ export default class ExerciseService {
 
     const shuffled = exercisesForMuscle.sort(() => 0.5 - Math.random());
 
-    return shuffled.slice(0, amount);
+    return amount ? shuffled.slice(0, amount) : shuffled;
   }
 }

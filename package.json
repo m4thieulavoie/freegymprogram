@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack serve",
     "lint": "eslint --ext .ts, src/ && npx stylelint \"src/**/*.scss\"",
-    "build": "webpack &&  && copyfiles _redirects public",
+    "build": "webpack && copyfiles _redirects public",
     "build_": "node scripts/build.js && webpack",
     "test": "node scripts/test.js"
   },
