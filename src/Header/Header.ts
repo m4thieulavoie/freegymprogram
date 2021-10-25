@@ -1,7 +1,10 @@
 import { FASTElement, customElement, html } from "@microsoft/fast-element";
 import styles from "./Header.scss";
 
-const template = html` <a href="/">Home</a><a href="/exercises">Exercises</a> `;
+const template = html`
+  <matt-anchor href="/">Home</matt-anchor
+  ><matt-anchor href="/exercises">Exercises</matt-anchor>
+`;
 
 @customElement({
   name: "wcs-header",

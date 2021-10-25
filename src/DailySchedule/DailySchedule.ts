@@ -13,7 +13,7 @@ import styles from "./DailySchedule.scss";
 const template = html<DailyScheduleComponent>`<h1>${(x) => x.musclesHeader}</h1>
   ${repeat(
     (x) => x.exercises,
-    html`<fgp-exercise exerciseid="${(x) => x.id}"></fgp-exercise>`
+    html`<fgp-exercise exerciseid="${(x) => x.id}" toggleable></fgp-exercise>`
   )}`;
 
 @customElement({

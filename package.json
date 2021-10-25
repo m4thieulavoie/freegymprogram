@@ -23,6 +23,7 @@
     "exercises"
   ],
   "dependencies": {
+    "@m4thieulavoie/design-system": "0.0.8",
     "@microsoft/fast-components": "2.11.3",
     "@microsoft/fast-element": "1.5.1",
     "@microsoft/fast-foundation": "2.16.1",

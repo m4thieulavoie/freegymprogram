@@ -21,7 +21,10 @@ const template = html<ExercisesComponent>` <label for="muscle-select"
   </select>
   ${repeat(
     (x) => x.exercises,
-    html<Exercise>`<fgp-exercise exerciseId=${(x) => x.id}></fgp-exercise>`
+    html<Exercise>`<fgp-exercise
+      exerciseId=${(x) => x.id}
+      toggleable
+    ></fgp-exercise>`
   )}`;
 
 @customElement({

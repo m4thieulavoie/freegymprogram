@@ -16,10 +16,16 @@ const template = html<ExerciseComponent>`${when(
   (x) => x.exercise,
   html<ExerciseComponent>`<header>
       <h1>
-        <a href="/exercise/${(x) => x.exercise.id}"
-          >${(x) => x.exercise.title}</a
+        <matt-anchor href="/exercise/${(x) => x.exercise.id}"
+          >${(x) => x.exercise.title}</matt-anchor
         >
-        <input type="checkbox" @change=${(x) => (x.isVisible = !x.isVisible)} />
+        ${when(
+          (x) => x.toggleable,
+          html`<input
+            type="checkbox"
+            @change=${(x) => (x.isVisible = !x.isVisible)}
+          />`
+        )}
       </h1>
     </header>
     ${when(
@@ -32,6 +38,8 @@ const template = html<ExerciseComponent>`${when(
           ${repeat((x) => x.exercise.secondary, html`${(x) => x},`)}
         </p>
         ${(x) => x.renderSelectedImage()}
+
+        <h2>Exercise steps</h2>
         <details>
           <summary>Steps</summary>
           <ul>
@@ -52,6 +60,7 @@ const template = html<ExerciseComponent>`${when(
 })
 export default class ExerciseComponent extends FASTElement {
   @attr() exerciseid: number;
+  @attr({ mode: "boolean" }) toggleable: boolean;
   @observable exercise: Exercise;
   @observable selectedImageId = 0;
   @observable isVisible = true;
@@ -70,13 +79,15 @@ export default class ExerciseComponent extends FASTElement {
       return;
     }
 
-    return html`<span
-        >${this.selectedImageId + 1} of ${this.exercise.img.length}</span
+    return html` <section>
+      <span class="hint">
+        ${this.selectedImageId + 1} of ${this.exercise.img.length}</span
       ><img
         @click=${() => this.augmentSelectedImageId()}
         alt="${this.exercise.title}"
         src="${selectedImg.replace("_images/web", "/images-web")}"
-      />`;
+      />
+    </section>`;
   }
 
   augmentSelectedImageId() {
