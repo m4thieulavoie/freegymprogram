@@ -4022,10 +4022,10 @@ sass-to-string@1.5.1:
   resolved "https://registry.npmjs.org/sass-to-string/-/sass-to-string-1.5.1.tgz"
   integrity sha512-7h2Ux0/9An0CcETvm3P2yx1acLx9dqpTKwsj/A6bHSUibPuzH3N1hMgS+27V9giUWGoF84q4D83YhhDeRvITgw==
 
-sass@1.42.1:
-  version "1.42.1"
-  resolved "https://registry.npmjs.org/sass/-/sass-1.42.1.tgz"
-  integrity sha512-/zvGoN8B7dspKc5mC6HlaygyCBRvnyzzgD5khiaCfglWztY99cYoiTUksVx11NlnemrcfH5CEaCpsUKoW0cQqg==
+sass@1.43.3:
+  version "1.43.3"
+  resolved "https://registry.npmjs.org/sass/-/sass-1.43.3.tgz"
+  integrity sha512-BJnLngqWpMeS65UvlYYEuCb3/fLxDxhHtOB/gWPxs6NKrslTxGt3ZxwIvOe/0Jm4tWwM/+tIpE3wj4dLEhPDeQ==
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
 
