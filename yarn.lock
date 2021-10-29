@@ -273,6 +273,18 @@
     tslib "^1.13.0"
     vscode-html-languageservice "^4.0.3"
 
+"@microsoft/fast-components@2.14.3":
+  version "2.14.3"
+  resolved "https://registry.npmjs.org/@microsoft/fast-components/-/fast-components-2.14.3.tgz"
+  integrity sha512-EMI2peQYScj4VmugHwiPZRslyK3vCZRyEE5PGS9GrdQ8fjnV5n9yGc1RUXzV4Y5ALkMo3fHpTaQOGdPvipWjKQ==
+  dependencies:
+    "@microsoft/fast-colors" "^5.1.3"
+    "@microsoft/fast-element" "^1.6.1"
+    "@microsoft/fast-foundation" "^2.23.2"
+    "@microsoft/fast-web-utilities" "^5.0.1"
+    tslib "^1.13.0"
+    vscode-html-languageservice "^4.0.3"
+
 "@microsoft/fast-components@^2.11.7":
   version "2.14.2"
   resolved "https://registry.npmjs.org/@microsoft/fast-components/-/fast-components-2.14.2.tgz"
@@ -290,7 +302,7 @@
   resolved "https://registry.npmjs.org/@microsoft/fast-element/-/fast-element-1.5.1.tgz"
   integrity sha512-2wv3svn2fJqT84PrchSNjRjCJ2z74tuzoo7odACouuQaLXuJckv1XexXWUj5INKY6/LB/rN/bJMYauX33JgOZA==
 
-"@microsoft/fast-element@^1.6.1":
+"@microsoft/fast-element@1.6.1", "@microsoft/fast-element@^1.6.1":
   version "1.6.1"
   resolved "https://registry.npmjs.org/@microsoft/fast-element/-/fast-element-1.6.1.tgz"
   integrity sha512-6wCL1yj5SSfqEq/GAkWeKdcE50NTx3VLINpSYG9cpxckgNGXHErsjDwbqwX3399e/O04BVwyIjILip11DFJP9w==
@@ -302,6 +314,17 @@
   dependencies:
     "@microsoft/fast-element" "^1.5.1"
     "@microsoft/fast-web-utilities" "^5.0.0"
+    "@microsoft/tsdoc-config" "^0.13.4"
+    tabbable "^5.2.0"
+    tslib "^1.13.0"
+
+"@microsoft/fast-foundation@2.23.2", "@microsoft/fast-foundation@^2.23.2":
+  version "2.23.2"
+  resolved "https://registry.npmjs.org/@microsoft/fast-foundation/-/fast-foundation-2.23.2.tgz"
+  integrity sha512-IpUtiaeg6253txHbel5MNbJIlSHPeVzl+vSacqoEfLJn+q89XbVEsmrofTvJXjbni0FLeoLxdf9HnkJGTfKcfg==
+  dependencies:
+    "@microsoft/fast-element" "^1.6.1"
+    "@microsoft/fast-web-utilities" "^5.0.1"
     "@microsoft/tsdoc-config" "^0.13.4"
     tabbable "^5.2.0"
     tslib "^1.13.0"
@@ -893,14 +916,14 @@ autoprefixer@^9.8.6:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-axe-browser-reporter@1.0.5:
-  version "1.0.5"
-  resolved "https://registry.npmjs.org/axe-browser-reporter/-/axe-browser-reporter-1.0.5.tgz"
-  integrity sha512-wo93eYGRQl/piEWsJfQrzbfcI9u3IwjrL/8Moz1dKBvQ/C/1AqN582r4EnZ/jXfsLEwqo1WSLmjS+GB36t+DoA==
+axe-browser-reporter@1.1.1:
+  version "1.1.1"
+  resolved "https://registry.npmjs.org/axe-browser-reporter/-/axe-browser-reporter-1.1.1.tgz"
+  integrity sha512-LhnKD2gLCd/TP3SLpIaHClT2g22aqhwgpvwMNGCPL57hTmWqAtLGJzxnixJfTISp17clQ2ds0xPQFGX3GGFy3w==
   dependencies:
-    "@microsoft/fast-components" "2.11.3"
-    "@microsoft/fast-element" "1.5.1"
-    "@microsoft/fast-foundation" "2.16.1"
+    "@microsoft/fast-components" "2.14.3"
+    "@microsoft/fast-element" "1.6.1"
+    "@microsoft/fast-foundation" "2.23.2"
     "@vaadin/router" "1.7.4"
     "@webcomponents/webcomponentsjs" "2.6.0"
     axe-core "^4.1.1"
