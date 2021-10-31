@@ -24,9 +24,9 @@
   ],
   "dependencies": {
     "@m4thieulavoie/design-system": "0.0.8",
-    "@microsoft/fast-components": "2.14.3",
-    "@microsoft/fast-element": "1.6.1",
-    "@microsoft/fast-foundation": "2.23.2",
+    "@microsoft/fast-components": "2.14.4",
+    "@microsoft/fast-element": "1.6.2",
+    "@microsoft/fast-foundation": "2.24.0",
     "@vaadin/router": "1.7.4",
     "axe-browser-reporter": "1.0.5"
   },
