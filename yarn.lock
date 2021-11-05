@@ -4908,10 +4908,10 @@ webpack-sources@^3.2.0:
   resolved "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.2.1.tgz"
   integrity sha512-t6BMVLQ0AkjBOoRTZgqrWm7xbXMBzD+XDq2EZ96+vMfn3qKgsvdXZhbPZ4ElUOpdv4u+iiGe+w3+J75iy/bYGA==
 
-webpack@5.61.0:
-  version "5.61.0"
-  resolved "https://registry.npmjs.org/webpack/-/webpack-5.61.0.tgz"
-  integrity sha512-fPdTuaYZ/GMGFm4WrPi2KRCqS1vDp773kj9S0iI5Uc//5cszsFEDgHNaX4Rj1vobUiU1dFIV3mA9k1eHeluFpw==
+webpack@5.62.0:
+  version "5.62.0"
+  resolved "https://registry.npmjs.org/webpack/-/webpack-5.62.0.tgz"
+  integrity sha512-4SyIaLQxm0JjUrQQ4UTHUU19rgl6hzidd8tYOBB3y78DKLBAVI777SYnl3f8e1XkHLYuILcyC7oUVs4mUZYKRg==
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.50"
