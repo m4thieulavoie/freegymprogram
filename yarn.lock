@@ -312,10 +312,10 @@
     tslib "^1.13.0"
     vscode-html-languageservice "^4.0.3"
 
-"@microsoft/fast-components@2.16.2", "@microsoft/fast-components@^2.11.7":
-  version "2.16.2"
-  resolved "https://registry.npmjs.org/@microsoft/fast-components/-/fast-components-2.16.2.tgz"
-  integrity sha512-yhy+ZlPsbwptepJOBxSPAsqljb/zzU3FM3LttI7wO7hxgxFy3YJFvERkcdiz4ollDGOMoOmo5DQ2DuQpfNGihQ==
+"@microsoft/fast-components@2.16.3", "@microsoft/fast-components@^2.11.7":
+  version "2.16.3"
+  resolved "https://registry.npmjs.org/@microsoft/fast-components/-/fast-components-2.16.3.tgz"
+  integrity sha512-vnH1wU6fzVuS0/ggpnEVHQ5Ab31c4MdD1JHrUZejnEhKBSxJh8aFODvxsTPFEKPtVcZCeIyCnd6ydquqSLnEcg==
   dependencies:
     "@microsoft/fast-colors" "^5.1.4"
     "@microsoft/fast-element" "^1.6.2"
