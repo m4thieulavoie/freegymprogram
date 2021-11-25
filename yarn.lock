@@ -4276,10 +4276,10 @@ sass-to-string@1.5.1:
   resolved "https://registry.npmjs.org/sass-to-string/-/sass-to-string-1.5.1.tgz"
   integrity sha512-7h2Ux0/9An0CcETvm3P2yx1acLx9dqpTKwsj/A6bHSUibPuzH3N1hMgS+27V9giUWGoF84q4D83YhhDeRvITgw==
 
-sass@1.43.4:
-  version "1.43.4"
-  resolved "https://registry.npmjs.org/sass/-/sass-1.43.4.tgz"
-  integrity sha512-/ptG7KE9lxpGSYiXn7Ar+lKOv37xfWsZRtFYal2QHNigyVQDx685VFT/h7ejVr+R8w7H4tmUgtulsKl5YpveOg==
+sass@1.43.5:
+  version "1.43.5"
+  resolved "https://registry.npmjs.org/sass/-/sass-1.43.5.tgz"
+  integrity sha512-WuNm+eAryMgQluL7Mbq9M4EruyGGMyal7Lu58FfnRMVWxgUzIvI7aSn60iNt3kn5yZBMR7G84fAGDcwqOF5JOg==
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
 
