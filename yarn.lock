@@ -312,14 +312,14 @@
     tslib "^1.13.0"
     vscode-html-languageservice "^4.0.3"
 
-"@microsoft/fast-components@2.16.3", "@microsoft/fast-components@^2.11.7":
-  version "2.16.3"
-  resolved "https://registry.npmjs.org/@microsoft/fast-components/-/fast-components-2.16.3.tgz"
-  integrity sha512-vnH1wU6fzVuS0/ggpnEVHQ5Ab31c4MdD1JHrUZejnEhKBSxJh8aFODvxsTPFEKPtVcZCeIyCnd6ydquqSLnEcg==
+"@microsoft/fast-components@2.16.8", "@microsoft/fast-components@^2.11.7":
+  version "2.16.8"
+  resolved "https://registry.npmjs.org/@microsoft/fast-components/-/fast-components-2.16.8.tgz"
+  integrity sha512-imhSWaD6I9PFLZLb9JCc4+rFLgZPGJKlIxVDhEg1dKr75m57BHEGBmHD6DVyCyFCmvhkqKT1LgK7U+BdGpzeug==
   dependencies:
     "@microsoft/fast-colors" "^5.1.4"
     "@microsoft/fast-element" "^1.6.2"
-    "@microsoft/fast-foundation" "^2.26.2"
+    "@microsoft/fast-foundation" "^2.27.2"
     "@microsoft/fast-web-utilities" "^5.0.2"
     tslib "^1.13.0"
     vscode-html-languageservice "^4.0.3"
@@ -345,10 +345,10 @@
     tabbable "^5.2.0"
     tslib "^1.13.0"
 
-"@microsoft/fast-foundation@2.26.2", "@microsoft/fast-foundation@^2.16.5", "@microsoft/fast-foundation@^2.26.2":
-  version "2.26.2"
-  resolved "https://registry.npmjs.org/@microsoft/fast-foundation/-/fast-foundation-2.26.2.tgz"
-  integrity sha512-N/oiaGqCin4u2/UU6T6gLG2lY/MDtSFXX6Jg6jps9NRf+ELDCN5tZUgnfMSOlL5aaDZozLTQwXlRT4dh8Futbw==
+"@microsoft/fast-foundation@2.27.2", "@microsoft/fast-foundation@^2.16.5", "@microsoft/fast-foundation@^2.27.2":
+  version "2.27.2"
+  resolved "https://registry.npmjs.org/@microsoft/fast-foundation/-/fast-foundation-2.27.2.tgz"
+  integrity sha512-1+UkpyCWzO/HtrZMa9fE+o1RDkWUgXa+UdKDcHUu1IdgLBntg8A+mRe2ejAnoVWJQQkcBjnInghzA84mQAGayA==
   dependencies:
     "@microsoft/fast-element" "^1.6.2"
     "@microsoft/fast-web-utilities" "^5.0.2"
