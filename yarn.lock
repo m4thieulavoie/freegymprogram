@@ -295,22 +295,10 @@
     stylelint-order "5.0.0"
     stylelint-scss "4.0.1"
 
-"@microsoft/fast-colors@^5.1.3", "@microsoft/fast-colors@^5.1.4":
+"@microsoft/fast-colors@^5.1.4":
   version "5.1.4"
   resolved "https://registry.npmjs.org/@microsoft/fast-colors/-/fast-colors-5.1.4.tgz"
   integrity sha512-+0ZVfZ04627buD8ZK8k84FpZom85vU0qUoRtcnFQm6AG5MIWcRE8m5ybJlMIjv2LIJcI/q7tjl+ruKBpWaqwJQ==
-
-"@microsoft/fast-components@2.11.3":
-  version "2.11.3"
-  resolved "https://registry.npmjs.org/@microsoft/fast-components/-/fast-components-2.11.3.tgz"
-  integrity sha512-ZjTItnwqAV0Zpyi4IhXkbmrTDxaPmBWuBvLgtSwWyTnnPf7eghdXRP+bqjRoY2dWF7q3oeFKy+2r4h2I7y8ttQ==
-  dependencies:
-    "@microsoft/fast-colors" "^5.1.3"
-    "@microsoft/fast-element" "^1.5.1"
-    "@microsoft/fast-foundation" "^2.16.1"
-    "@microsoft/fast-web-utilities" "^5.0.0"
-    tslib "^1.13.0"
-    vscode-html-languageservice "^4.0.3"
 
 "@microsoft/fast-components@2.16.8", "@microsoft/fast-components@^2.11.7":
   version "2.16.8"
@@ -324,26 +312,10 @@
     tslib "^1.13.0"
     vscode-html-languageservice "^4.0.3"
 
-"@microsoft/fast-element@1.5.1":
-  version "1.5.1"
-  resolved "https://registry.npmjs.org/@microsoft/fast-element/-/fast-element-1.5.1.tgz"
-  integrity sha512-2wv3svn2fJqT84PrchSNjRjCJ2z74tuzoo7odACouuQaLXuJckv1XexXWUj5INKY6/LB/rN/bJMYauX33JgOZA==
-
 "@microsoft/fast-element@1.6.2", "@microsoft/fast-element@^1.5.1", "@microsoft/fast-element@^1.6.2":
   version "1.6.2"
   resolved "https://registry.npmjs.org/@microsoft/fast-element/-/fast-element-1.6.2.tgz"
   integrity sha512-TrFOpe9k9xIK2iLfIG5T2+bavUAWBvAC/KQ/3ecFsK65l9PAZ/j3zlkyLxNrpIksFtUBkfVdV03kwFurZjqzKQ==
-
-"@microsoft/fast-foundation@2.16.1", "@microsoft/fast-foundation@^2.16.1":
-  version "2.16.1"
-  resolved "https://registry.npmjs.org/@microsoft/fast-foundation/-/fast-foundation-2.16.1.tgz"
-  integrity sha512-yY7mhr1XWIhtvc2So1zYY9UTtunhcO+nba7T5MZ+Nge/MOA4RQD/VGoBY2lmiNCJ/Cem2eDwdpXJlzU7xM3PkA==
-  dependencies:
-    "@microsoft/fast-element" "^1.5.1"
-    "@microsoft/fast-web-utilities" "^5.0.0"
-    "@microsoft/tsdoc-config" "^0.13.4"
-    tabbable "^5.2.0"
-    tslib "^1.13.0"
 
 "@microsoft/fast-foundation@2.27.2", "@microsoft/fast-foundation@^2.16.5", "@microsoft/fast-foundation@^2.27.2":
   version "2.27.2"
@@ -355,27 +327,12 @@
     tabbable "^5.2.0"
     tslib "^1.13.0"
 
-"@microsoft/fast-web-utilities@^5.0.0", "@microsoft/fast-web-utilities@^5.0.2":
+"@microsoft/fast-web-utilities@^5.0.2":
   version "5.0.2"
   resolved "https://registry.npmjs.org/@microsoft/fast-web-utilities/-/fast-web-utilities-5.0.2.tgz"
   integrity sha512-J8Wy64V1NWF/UjFJ1mvmJNNPChbWobsNkJ8xNaV5/M+VKOQEOheojrOS+RmOUG7DKTBlCLIbUvyXsj1YiCfwkA==
   dependencies:
     exenv-es6 "^1.0.0"
-
-"@microsoft/tsdoc-config@^0.13.4":
-  version "0.13.9"
-  resolved "https://registry.npmjs.org/@microsoft/tsdoc-config/-/tsdoc-config-0.13.9.tgz"
-  integrity sha512-VqqZn+rT9f6XujFPFR2aN9XKF/fuir/IzKVzoxI0vXIzxysp4ee6S2jCakmlGFHEasibifFTsJr7IYmRPxfzYw==
-  dependencies:
-    "@microsoft/tsdoc" "0.12.24"
-    ajv "~6.12.6"
-    jju "~1.4.0"
-    resolve "~1.19.0"
-
-"@microsoft/tsdoc@0.12.24":
-  version "0.12.24"
-  resolved "https://registry.npmjs.org/@microsoft/tsdoc/-/tsdoc-0.12.24.tgz"
-  integrity sha512-Mfmij13RUTmHEMi9vRUhMXD7rnGR2VvxeNYtaGtaJ4redwwjT4UXYJ+nzmVJF7hhd4pn/Fx5sncDKxMVFJSWPg==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -842,7 +799,7 @@ ajv-keywords@^5.0.0:
   dependencies:
     fast-deep-equal "^3.1.3"
 
-ajv@^6.10.0, ajv@^6.12.4, ajv@^6.12.5, ajv@~6.12.6:
+ajv@^6.10.0, ajv@^6.12.4, ajv@^6.12.5:
   version "6.12.6"
   resolved "https://registry.npmjs.org/ajv/-/ajv-6.12.6.tgz"
   integrity sha512-j3fVLgvTo527anyYyJOGTYJbG+vnnQYvE0m5mmkc1TK+nxAppkCLMIL0aZ4dblVCNoGShhm+kzE4ZUykBoMg4g==
@@ -1001,14 +958,14 @@ autoprefixer@^9.8.6:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-axe-browser-reporter@1.0.5:
-  version "1.0.5"
-  resolved "https://registry.npmjs.org/axe-browser-reporter/-/axe-browser-reporter-1.0.5.tgz"
-  integrity sha512-wo93eYGRQl/piEWsJfQrzbfcI9u3IwjrL/8Moz1dKBvQ/C/1AqN582r4EnZ/jXfsLEwqo1WSLmjS+GB36t+DoA==
+axe-browser-reporter@1.1.2:
+  version "1.1.2"
+  resolved "https://registry.npmjs.org/axe-browser-reporter/-/axe-browser-reporter-1.1.2.tgz"
+  integrity sha512-wPPo9c3VyjFuM6hFDTJl8UJmfmhp0o9+EkxVP61+17qyWKxwHIM9llJ8YqJqPjXnD6iQ8WMwGeliFGPSQaToyw==
   dependencies:
-    "@microsoft/fast-components" "2.11.3"
-    "@microsoft/fast-element" "1.5.1"
-    "@microsoft/fast-foundation" "2.16.1"
+    "@microsoft/fast-components" "2.16.8"
+    "@microsoft/fast-element" "1.6.2"
+    "@microsoft/fast-foundation" "2.27.2"
     "@vaadin/router" "1.7.4"
     "@webcomponents/webcomponentsjs" "2.6.0"
     axe-core "^4.1.1"
@@ -2768,7 +2725,7 @@ is-callable@^1.1.3, is-callable@^1.1.4, is-callable@^1.2.4:
   resolved "https://registry.npmjs.org/is-callable/-/is-callable-1.2.4.tgz"
   integrity sha512-nsuwtxZfMX67Oryl9LCQ+upnC0Z0BgpwntpS89m1H/TLF0zNfzfLMV/9Wa/6MZsj0acpEjAO0KF1xT6ZdLl95w==
 
-is-core-module@^2.1.0, is-core-module@^2.2.0, is-core-module@^2.5.0, is-core-module@^2.8.0:
+is-core-module@^2.2.0, is-core-module@^2.5.0, is-core-module@^2.8.0:
   version "2.8.0"
   resolved "https://registry.npmjs.org/is-core-module/-/is-core-module-2.8.0.tgz"
   integrity sha512-vd15qHsaqrRL7dtH6QNuy0ndJmRDrS9HAM1CAiSifNUFv4x1a0CCVsj18hJ1mShxIG6T2i1sO78MkP56r0nYRw==
@@ -2957,11 +2914,6 @@ jest-worker@^27.0.6:
     "@types/node" "*"
     merge-stream "^2.0.0"
     supports-color "^8.0.0"
-
-jju@~1.4.0:
-  version "1.4.0"
-  resolved "https://registry.npmjs.org/jju/-/jju-1.4.0.tgz"
-  integrity sha1-o6vicYryQaKykE+EpiWXDzia4yo=
 
 js-tokens@^4.0.0:
   version "4.0.0"
@@ -4120,14 +4072,6 @@ resolve@^1.10.0, resolve@^1.20.0, resolve@^1.9.0:
   integrity sha512-wENBPt4ySzg4ybFQW2TT1zMQucPK95HSh/nq2CFTZVOGut2+pQvSsgtda4d26YrYcr067wjbmzOG8byDPBX63A==
   dependencies:
     is-core-module "^2.2.0"
-    path-parse "^1.0.6"
-
-resolve@~1.19.0:
-  version "1.19.0"
-  resolved "https://registry.npmjs.org/resolve/-/resolve-1.19.0.tgz"
-  integrity sha512-rArEXAgsBG4UgRGcynxWIWKFvh/XZCcS8UJdHhwy91zwAvCZIbcs+vAbflgBnNjYMs/i/i+/Ux6IZhML1yPvxg==
-  dependencies:
-    is-core-module "^2.1.0"
     path-parse "^1.0.6"
 
 retry@^0.13.1:
