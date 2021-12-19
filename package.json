@@ -28,7 +28,7 @@
     "@microsoft/fast-element": "1.6.2",
     "@microsoft/fast-foundation": "2.27.2",
     "@vaadin/router": "1.7.4",
-    "axe-browser-reporter": "1.0.5"
+    "axe-browser-reporter": "1.1.2"
   },
   "devDependencies": {
     "@m4thieulavoie/linting": "0.2.7",
