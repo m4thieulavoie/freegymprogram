@@ -266,10 +266,10 @@
   resolved "https://registry.npmjs.org/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@m4thieulavoie/design-system@0.0.8":
-  version "0.0.8"
-  resolved "https://registry.npmjs.org/@m4thieulavoie/design-system/-/design-system-0.0.8.tgz"
-  integrity sha512-laGzetFN2Rxo5I5lpKpxzrCg//ZA6ZdS+fvk5y305Jtcp2AStiiO2mc7lHOtTVUhHV7ASuIn47XJ6GatFkb7+A==
+"@m4thieulavoie/design-system@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.npmjs.org/@m4thieulavoie/design-system/-/design-system-0.1.0.tgz"
+  integrity sha512-Ql9tHw3MmBiA+165B4aOq8+h0N4P0A4yfHTxD6G65U5t1TGjvHTEVig69ggqEgWqHmQcjmdIEpexT3FqDFdMUQ==
   dependencies:
     "@microsoft/fast-components" "^2.11.7"
     "@microsoft/fast-element" "^1.5.1"
