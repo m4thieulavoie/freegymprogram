@@ -1884,13 +1884,6 @@ eslint-plugin-import@2.25.3:
     resolve "^1.20.0"
     tsconfig-paths "^3.11.0"
 
-eslint-plugin-inclusive-language@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.npmjs.org/eslint-plugin-inclusive-language/-/eslint-plugin-inclusive-language-2.1.1.tgz"
-  integrity sha512-/dJC035CntrE7JpmQk0lId340iJZ3wUp22dUIy33CVSbO0t9jffeIe0lM0H9281ISdfB4oERvbq3iMK7f0YRDQ==
-  dependencies:
-    humps "^2.0.1"
-
 eslint-plugin-inclusive-language@2.2.0:
   version "2.2.0"
   resolved "https://registry.npmjs.org/eslint-plugin-inclusive-language/-/eslint-plugin-inclusive-language-2.2.0.tgz"
